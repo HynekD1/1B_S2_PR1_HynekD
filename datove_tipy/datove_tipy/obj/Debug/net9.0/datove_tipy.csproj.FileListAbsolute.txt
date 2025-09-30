@@ -1,0 +1,14 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy\datove_tipy\obj\Debug\net9.0\datove_tipy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy\datove_tipy\obj\Debug\net9.0\datove_tipy.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy\datove_tipy\obj\Debug\net9.0\datove_tipy.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy\datove_tipy\obj\Debug\net9.0\datove_tipy.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy\datove_tipy\bin\Debug\net9.0\datove_tipy.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy\datove_tipy\bin\Debug\net9.0\datove_tipy.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy\datove_tipy\bin\Debug\net9.0\datove_tipy.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy\datove_tipy\bin\Debug\net9.0\datove_tipy.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy\datove_tipy\bin\Debug\net9.0\datove_tipy.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy\datove_tipy\obj\Debug\net9.0\datove_tipy.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy\datove_tipy\obj\Debug\net9.0\refint\datove_tipy.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy\datove_tipy\obj\Debug\net9.0\datove_tipy.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy\datove_tipy\obj\Debug\net9.0\datove_tipy.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy\datove_tipy\obj\Debug\net9.0\ref\datove_tipy.dll

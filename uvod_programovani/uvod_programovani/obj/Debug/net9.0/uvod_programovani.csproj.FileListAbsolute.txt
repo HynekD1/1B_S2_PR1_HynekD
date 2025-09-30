@@ -1,0 +1,14 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\uvod_programovani\uvod_programovani\bin\Debug\net9.0\uvod_programovani.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\uvod_programovani\uvod_programovani\bin\Debug\net9.0\uvod_programovani.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\uvod_programovani\uvod_programovani\bin\Debug\net9.0\uvod_programovani.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\uvod_programovani\uvod_programovani\bin\Debug\net9.0\uvod_programovani.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\uvod_programovani\uvod_programovani\bin\Debug\net9.0\uvod_programovani.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\uvod_programovani\uvod_programovani\obj\Debug\net9.0\uvod_programovani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\uvod_programovani\uvod_programovani\obj\Debug\net9.0\uvod_programovani.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\uvod_programovani\uvod_programovani\obj\Debug\net9.0\uvod_programovani.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\uvod_programovani\uvod_programovani\obj\Debug\net9.0\uvod_programovani.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\uvod_programovani\uvod_programovani\obj\Debug\net9.0\uvod_programovani.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\uvod_programovani\uvod_programovani\obj\Debug\net9.0\refint\uvod_programovani.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\uvod_programovani\uvod_programovani\obj\Debug\net9.0\uvod_programovani.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\uvod_programovani\uvod_programovani\obj\Debug\net9.0\uvod_programovani.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\uvod_programovani\uvod_programovani\obj\Debug\net9.0\ref\uvod_programovani.dll

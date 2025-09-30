@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "datove_tipy_procv/1.0.0": {
+        "runtime": {
+          "datove_tipy_procv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "datove_tipy_procv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

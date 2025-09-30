@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "objem_a_povrch_kvadru/1.0.0": {
+        "runtime": {
+          "objem_a_povrch_kvadru.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "objem_a_povrch_kvadru/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

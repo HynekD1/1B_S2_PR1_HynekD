@@ -1,0 +1,14 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\napukni_kosik\napukni_kosik\bin\Debug\net9.0\napukni_kosik.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\napukni_kosik\napukni_kosik\bin\Debug\net9.0\napukni_kosik.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\napukni_kosik\napukni_kosik\bin\Debug\net9.0\napukni_kosik.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\napukni_kosik\napukni_kosik\bin\Debug\net9.0\napukni_kosik.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\napukni_kosik\napukni_kosik\bin\Debug\net9.0\napukni_kosik.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\napukni_kosik\napukni_kosik\obj\Debug\net9.0\napukni_kosik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\napukni_kosik\napukni_kosik\obj\Debug\net9.0\napukni_kosik.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\napukni_kosik\napukni_kosik\obj\Debug\net9.0\napukni_kosik.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\napukni_kosik\napukni_kosik\obj\Debug\net9.0\napukni_kosik.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\napukni_kosik\napukni_kosik\obj\Debug\net9.0\napukni_kosik.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\napukni_kosik\napukni_kosik\obj\Debug\net9.0\refint\napukni_kosik.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\napukni_kosik\napukni_kosik\obj\Debug\net9.0\napukni_kosik.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\napukni_kosik\napukni_kosik\obj\Debug\net9.0\napukni_kosik.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\napukni_kosik\napukni_kosik\obj\Debug\net9.0\ref\napukni_kosik.dll

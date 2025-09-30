@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dominik\\OneDrive - DELTA - S\u0160IE, s.r.o\\Dokumenty\\Studio visual\\Uvod\\vystup_vstup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07839514-F8C1-4444-85E8-1EDC6C12246C}|vystup_vstup\\vystup_vstup.csproj|c:\\users\\dominik\\onedrive - delta - s\u0161ie, s.r.o\\dokumenty\\studio visual\\uvod\\vystup_vstup\\vystup_vstup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07839514-F8C1-4444-85E8-1EDC6C12246C}|vystup_vstup\\vystup_vstup.csproj|solutionrelative:vystup_vstup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\OneDrive - DELTA - S\u0160IE, s.r.o\\Dokumenty\\Studio visual\\Uvod\\vystup_vstup\\vystup_vstup\\Program.cs",
+              "RelativeDocumentMoniker": "vystup_vstup\\Program.cs",
+              "ToolTip": "C:\\Users\\Dominik\\OneDrive - DELTA - S\u0160IE, s.r.o\\Dokumenty\\Studio visual\\Uvod\\vystup_vstup\\vystup_vstup\\Program.cs",
+              "RelativeToolTip": "vystup_vstup\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwEYAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T09:41:48.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

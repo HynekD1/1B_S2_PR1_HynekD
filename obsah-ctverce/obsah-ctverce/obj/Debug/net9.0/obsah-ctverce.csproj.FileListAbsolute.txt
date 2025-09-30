@@ -1,0 +1,14 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\obsah-ctverce\obsah-ctverce\obj\Debug\net9.0\obsah-ctverce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\obsah-ctverce\obsah-ctverce\obj\Debug\net9.0\obsah-ctverce.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\obsah-ctverce\obsah-ctverce\obj\Debug\net9.0\obsah-ctverce.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\obsah-ctverce\obsah-ctverce\obj\Debug\net9.0\obsah-ctverce.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\obsah-ctverce\obsah-ctverce\bin\Debug\net9.0\obsah-ctverce.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\obsah-ctverce\obsah-ctverce\bin\Debug\net9.0\obsah-ctverce.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\obsah-ctverce\obsah-ctverce\bin\Debug\net9.0\obsah-ctverce.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\obsah-ctverce\obsah-ctverce\bin\Debug\net9.0\obsah-ctverce.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\obsah-ctverce\obsah-ctverce\bin\Debug\net9.0\obsah-ctverce.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\obsah-ctverce\obsah-ctverce\obj\Debug\net9.0\obsah-ctverce.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\obsah-ctverce\obsah-ctverce\obj\Debug\net9.0\refint\obsah-ctverce.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\obsah-ctverce\obsah-ctverce\obj\Debug\net9.0\obsah-ctverce.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\obsah-ctverce\obsah-ctverce\obj\Debug\net9.0\obsah-ctverce.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\obsah-ctverce\obsah-ctverce\obj\Debug\net9.0\ref\obsah-ctverce.dll

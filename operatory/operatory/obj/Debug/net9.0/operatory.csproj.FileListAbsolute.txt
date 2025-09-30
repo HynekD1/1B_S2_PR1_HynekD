@@ -1,0 +1,14 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\operatory\operatory\bin\Debug\net9.0\operatory.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\operatory\operatory\bin\Debug\net9.0\operatory.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\operatory\operatory\bin\Debug\net9.0\operatory.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\operatory\operatory\bin\Debug\net9.0\operatory.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\operatory\operatory\bin\Debug\net9.0\operatory.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\operatory\operatory\obj\Debug\net9.0\operatory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\operatory\operatory\obj\Debug\net9.0\operatory.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\operatory\operatory\obj\Debug\net9.0\operatory.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\operatory\operatory\obj\Debug\net9.0\operatory.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\operatory\operatory\obj\Debug\net9.0\operatory.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\operatory\operatory\obj\Debug\net9.0\refint\operatory.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\operatory\operatory\obj\Debug\net9.0\operatory.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\operatory\operatory\obj\Debug\net9.0\operatory.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\operatory\operatory\obj\Debug\net9.0\ref\operatory.dll

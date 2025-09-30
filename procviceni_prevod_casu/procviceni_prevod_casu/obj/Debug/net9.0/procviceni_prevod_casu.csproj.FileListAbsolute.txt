@@ -1,0 +1,14 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\procviceni_prevod_casu\procviceni_prevod_casu\bin\Debug\net9.0\procviceni_prevod_casu.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\procviceni_prevod_casu\procviceni_prevod_casu\bin\Debug\net9.0\procviceni_prevod_casu.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\procviceni_prevod_casu\procviceni_prevod_casu\bin\Debug\net9.0\procviceni_prevod_casu.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\procviceni_prevod_casu\procviceni_prevod_casu\bin\Debug\net9.0\procviceni_prevod_casu.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\procviceni_prevod_casu\procviceni_prevod_casu\bin\Debug\net9.0\procviceni_prevod_casu.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\procviceni_prevod_casu\procviceni_prevod_casu\obj\Debug\net9.0\procviceni_prevod_casu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\procviceni_prevod_casu\procviceni_prevod_casu\obj\Debug\net9.0\procviceni_prevod_casu.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\procviceni_prevod_casu\procviceni_prevod_casu\obj\Debug\net9.0\procviceni_prevod_casu.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\procviceni_prevod_casu\procviceni_prevod_casu\obj\Debug\net9.0\procviceni_prevod_casu.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\procviceni_prevod_casu\procviceni_prevod_casu\obj\Debug\net9.0\procviceni_prevod_casu.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\procviceni_prevod_casu\procviceni_prevod_casu\obj\Debug\net9.0\refint\procviceni_prevod_casu.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\procviceni_prevod_casu\procviceni_prevod_casu\obj\Debug\net9.0\procviceni_prevod_casu.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\procviceni_prevod_casu\procviceni_prevod_casu\obj\Debug\net9.0\procviceni_prevod_casu.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\procviceni_prevod_casu\procviceni_prevod_casu\obj\Debug\net9.0\ref\procviceni_prevod_casu.dll

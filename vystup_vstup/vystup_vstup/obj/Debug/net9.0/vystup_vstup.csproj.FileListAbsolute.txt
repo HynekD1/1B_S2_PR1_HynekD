@@ -1,0 +1,14 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\vystup_vstup\vystup_vstup\bin\Debug\net9.0\vystup_vstup.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\vystup_vstup\vystup_vstup\bin\Debug\net9.0\vystup_vstup.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\vystup_vstup\vystup_vstup\bin\Debug\net9.0\vystup_vstup.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\vystup_vstup\vystup_vstup\bin\Debug\net9.0\vystup_vstup.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\vystup_vstup\vystup_vstup\bin\Debug\net9.0\vystup_vstup.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\vystup_vstup\vystup_vstup\obj\Debug\net9.0\vystup_vstup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\vystup_vstup\vystup_vstup\obj\Debug\net9.0\vystup_vstup.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\vystup_vstup\vystup_vstup\obj\Debug\net9.0\vystup_vstup.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\vystup_vstup\vystup_vstup\obj\Debug\net9.0\vystup_vstup.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\vystup_vstup\vystup_vstup\obj\Debug\net9.0\vystup_vstup.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\vystup_vstup\vystup_vstup\obj\Debug\net9.0\refint\vystup_vstup.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\vystup_vstup\vystup_vstup\obj\Debug\net9.0\vystup_vstup.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\vystup_vstup\vystup_vstup\obj\Debug\net9.0\vystup_vstup.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\vystup_vstup\vystup_vstup\obj\Debug\net9.0\ref\vystup_vstup.dll

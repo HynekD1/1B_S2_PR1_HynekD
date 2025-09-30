@@ -1,0 +1,14 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy_procv\datove_tipy_procv\obj\Debug\net9.0\datove_tipy_procv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy_procv\datove_tipy_procv\obj\Debug\net9.0\datove_tipy_procv.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy_procv\datove_tipy_procv\obj\Debug\net9.0\datove_tipy_procv.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy_procv\datove_tipy_procv\obj\Debug\net9.0\datove_tipy_procv.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy_procv\datove_tipy_procv\bin\Debug\net9.0\datove_tipy_procv.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy_procv\datove_tipy_procv\bin\Debug\net9.0\datove_tipy_procv.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy_procv\datove_tipy_procv\bin\Debug\net9.0\datove_tipy_procv.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy_procv\datove_tipy_procv\bin\Debug\net9.0\datove_tipy_procv.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy_procv\datove_tipy_procv\bin\Debug\net9.0\datove_tipy_procv.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy_procv\datove_tipy_procv\obj\Debug\net9.0\datove_tipy_procv.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy_procv\datove_tipy_procv\obj\Debug\net9.0\refint\datove_tipy_procv.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy_procv\datove_tipy_procv\obj\Debug\net9.0\datove_tipy_procv.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy_procv\datove_tipy_procv\obj\Debug\net9.0\datove_tipy_procv.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\datove_tipy_procv\datove_tipy_procv\obj\Debug\net9.0\ref\datove_tipy_procv.dll

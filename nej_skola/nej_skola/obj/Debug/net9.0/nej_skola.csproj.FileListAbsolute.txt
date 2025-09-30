@@ -1,0 +1,14 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\nej_skola\nej_skola\bin\Debug\net9.0\nej_skola.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\nej_skola\nej_skola\bin\Debug\net9.0\nej_skola.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\nej_skola\nej_skola\bin\Debug\net9.0\nej_skola.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\nej_skola\nej_skola\bin\Debug\net9.0\nej_skola.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\nej_skola\nej_skola\bin\Debug\net9.0\nej_skola.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\nej_skola\nej_skola\obj\Debug\net9.0\nej_skola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\nej_skola\nej_skola\obj\Debug\net9.0\nej_skola.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\nej_skola\nej_skola\obj\Debug\net9.0\nej_skola.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\nej_skola\nej_skola\obj\Debug\net9.0\nej_skola.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\nej_skola\nej_skola\obj\Debug\net9.0\nej_skola.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\nej_skola\nej_skola\obj\Debug\net9.0\refint\nej_skola.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\nej_skola\nej_skola\obj\Debug\net9.0\nej_skola.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\nej_skola\nej_skola\obj\Debug\net9.0\nej_skola.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\nej_skola\nej_skola\obj\Debug\net9.0\ref\nej_skola.dll

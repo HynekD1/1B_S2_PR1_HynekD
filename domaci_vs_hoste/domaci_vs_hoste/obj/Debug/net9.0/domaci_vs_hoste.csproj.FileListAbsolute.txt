@@ -1,0 +1,14 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\domaci_vs_hoste\domaci_vs_hoste\bin\Debug\net9.0\domaci_vs_hoste.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\domaci_vs_hoste\domaci_vs_hoste\bin\Debug\net9.0\domaci_vs_hoste.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\domaci_vs_hoste\domaci_vs_hoste\bin\Debug\net9.0\domaci_vs_hoste.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\domaci_vs_hoste\domaci_vs_hoste\bin\Debug\net9.0\domaci_vs_hoste.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\domaci_vs_hoste\domaci_vs_hoste\bin\Debug\net9.0\domaci_vs_hoste.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\domaci_vs_hoste\domaci_vs_hoste\obj\Debug\net9.0\domaci_vs_hoste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\domaci_vs_hoste\domaci_vs_hoste\obj\Debug\net9.0\domaci_vs_hoste.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\domaci_vs_hoste\domaci_vs_hoste\obj\Debug\net9.0\domaci_vs_hoste.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\domaci_vs_hoste\domaci_vs_hoste\obj\Debug\net9.0\domaci_vs_hoste.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\domaci_vs_hoste\domaci_vs_hoste\obj\Debug\net9.0\domaci_vs_hoste.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\domaci_vs_hoste\domaci_vs_hoste\obj\Debug\net9.0\refint\domaci_vs_hoste.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\domaci_vs_hoste\domaci_vs_hoste\obj\Debug\net9.0\domaci_vs_hoste.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\domaci_vs_hoste\domaci_vs_hoste\obj\Debug\net9.0\domaci_vs_hoste.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\domaci_vs_hoste\domaci_vs_hoste\obj\Debug\net9.0\ref\domaci_vs_hoste.dll

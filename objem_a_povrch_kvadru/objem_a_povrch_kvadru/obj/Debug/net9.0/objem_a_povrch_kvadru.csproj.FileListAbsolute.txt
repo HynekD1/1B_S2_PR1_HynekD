@@ -1,0 +1,14 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\objem_a_povrch_kvadru\objem_a_povrch_kvadru\bin\Debug\net9.0\objem_a_povrch_kvadru.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\objem_a_povrch_kvadru\objem_a_povrch_kvadru\bin\Debug\net9.0\objem_a_povrch_kvadru.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\objem_a_povrch_kvadru\objem_a_povrch_kvadru\bin\Debug\net9.0\objem_a_povrch_kvadru.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\objem_a_povrch_kvadru\objem_a_povrch_kvadru\bin\Debug\net9.0\objem_a_povrch_kvadru.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\objem_a_povrch_kvadru\objem_a_povrch_kvadru\bin\Debug\net9.0\objem_a_povrch_kvadru.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\objem_a_povrch_kvadru\objem_a_povrch_kvadru\obj\Debug\net9.0\objem_a_povrch_kvadru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\objem_a_povrch_kvadru\objem_a_povrch_kvadru\obj\Debug\net9.0\objem_a_povrch_kvadru.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\objem_a_povrch_kvadru\objem_a_povrch_kvadru\obj\Debug\net9.0\objem_a_povrch_kvadru.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\objem_a_povrch_kvadru\objem_a_povrch_kvadru\obj\Debug\net9.0\objem_a_povrch_kvadru.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\objem_a_povrch_kvadru\objem_a_povrch_kvadru\obj\Debug\net9.0\objem_a_povrch_kvadru.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\objem_a_povrch_kvadru\objem_a_povrch_kvadru\obj\Debug\net9.0\refint\objem_a_povrch_kvadru.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\objem_a_povrch_kvadru\objem_a_povrch_kvadru\obj\Debug\net9.0\objem_a_povrch_kvadru.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\objem_a_povrch_kvadru\objem_a_povrch_kvadru\obj\Debug\net9.0\objem_a_povrch_kvadru.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\objem_a_povrch_kvadru\objem_a_povrch_kvadru\obj\Debug\net9.0\ref\objem_a_povrch_kvadru.dll

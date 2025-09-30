@@ -1,0 +1,14 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\pozdrav\pozdrav\bin\Debug\net9.0\pozdrav.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\pozdrav\pozdrav\bin\Debug\net9.0\pozdrav.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\pozdrav\pozdrav\bin\Debug\net9.0\pozdrav.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\pozdrav\pozdrav\bin\Debug\net9.0\pozdrav.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\pozdrav\pozdrav\bin\Debug\net9.0\pozdrav.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\pozdrav\pozdrav\obj\Debug\net9.0\pozdrav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\pozdrav\pozdrav\obj\Debug\net9.0\pozdrav.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\pozdrav\pozdrav\obj\Debug\net9.0\pozdrav.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\pozdrav\pozdrav\obj\Debug\net9.0\pozdrav.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\pozdrav\pozdrav\obj\Debug\net9.0\pozdrav.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\pozdrav\pozdrav\obj\Debug\net9.0\refint\pozdrav.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\pozdrav\pozdrav\obj\Debug\net9.0\pozdrav.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\pozdrav\pozdrav\obj\Debug\net9.0\pozdrav.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\Uvod\pozdrav\pozdrav\obj\Debug\net9.0\ref\pozdrav.dll
