@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "pocvicovani_podmnek/1.0.0": {
+        "runtime": {
+          "pocvicovani_podmnek.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pocvicovani_podmnek/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
