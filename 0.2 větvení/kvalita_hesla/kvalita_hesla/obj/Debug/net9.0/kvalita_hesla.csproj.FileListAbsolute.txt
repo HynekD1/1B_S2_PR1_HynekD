@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kvalita_hesla\kvalita_hesla\bin\Debug\net9.0\kvalita_hesla.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kvalita_hesla\kvalita_hesla\bin\Debug\net9.0\kvalita_hesla.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kvalita_hesla\kvalita_hesla\bin\Debug\net9.0\kvalita_hesla.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kvalita_hesla\kvalita_hesla\bin\Debug\net9.0\kvalita_hesla.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kvalita_hesla\kvalita_hesla\bin\Debug\net9.0\kvalita_hesla.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kvalita_hesla\kvalita_hesla\obj\Debug\net9.0\kvalita_hesla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kvalita_hesla\kvalita_hesla\obj\Debug\net9.0\kvalita_hesla.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kvalita_hesla\kvalita_hesla\obj\Debug\net9.0\kvalita_hesla.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kvalita_hesla\kvalita_hesla\obj\Debug\net9.0\kvalita_hesla.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kvalita_hesla\kvalita_hesla\obj\Debug\net9.0\kvalita_hesla.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kvalita_hesla\kvalita_hesla\obj\Debug\net9.0\kvalita_hesla.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kvalita_hesla\kvalita_hesla\obj\Debug\net9.0\refint\kvalita_hesla.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kvalita_hesla\kvalita_hesla\obj\Debug\net9.0\kvalita_hesla.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kvalita_hesla\kvalita_hesla\obj\Debug\net9.0\kvalita_hesla.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kvalita_hesla\kvalita_hesla\obj\Debug\net9.0\ref\kvalita_hesla.dll

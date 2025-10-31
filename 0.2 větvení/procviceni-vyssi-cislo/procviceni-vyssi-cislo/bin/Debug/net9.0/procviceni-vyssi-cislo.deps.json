@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "procviceni-vyssi-cislo/1.0.0": {
+        "runtime": {
+          "procviceni-vyssi-cislo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "procviceni-vyssi-cislo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

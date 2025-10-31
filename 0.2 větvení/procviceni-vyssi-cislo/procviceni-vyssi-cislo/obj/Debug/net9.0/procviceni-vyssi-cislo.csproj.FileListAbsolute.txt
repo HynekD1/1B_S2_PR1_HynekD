@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni-vyssi-cislo\procviceni-vyssi-cislo\obj\Debug\net9.0\procviceni-vyssi-cislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni-vyssi-cislo\procviceni-vyssi-cislo\obj\Debug\net9.0\procviceni-vyssi-cislo.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni-vyssi-cislo\procviceni-vyssi-cislo\obj\Debug\net9.0\procviceni-vyssi-cislo.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni-vyssi-cislo\procviceni-vyssi-cislo\obj\Debug\net9.0\procviceni-vyssi-cislo.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni-vyssi-cislo\procviceni-vyssi-cislo\obj\Debug\net9.0\procviceni-vyssi-cislo.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni-vyssi-cislo\procviceni-vyssi-cislo\bin\Debug\net9.0\procviceni-vyssi-cislo.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni-vyssi-cislo\procviceni-vyssi-cislo\bin\Debug\net9.0\procviceni-vyssi-cislo.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni-vyssi-cislo\procviceni-vyssi-cislo\bin\Debug\net9.0\procviceni-vyssi-cislo.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni-vyssi-cislo\procviceni-vyssi-cislo\bin\Debug\net9.0\procviceni-vyssi-cislo.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni-vyssi-cislo\procviceni-vyssi-cislo\bin\Debug\net9.0\procviceni-vyssi-cislo.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni-vyssi-cislo\procviceni-vyssi-cislo\obj\Debug\net9.0\procviceni-vyssi-cislo.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni-vyssi-cislo\procviceni-vyssi-cislo\obj\Debug\net9.0\refint\procviceni-vyssi-cislo.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni-vyssi-cislo\procviceni-vyssi-cislo\obj\Debug\net9.0\procviceni-vyssi-cislo.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni-vyssi-cislo\procviceni-vyssi-cislo\obj\Debug\net9.0\procviceni-vyssi-cislo.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni-vyssi-cislo\procviceni-vyssi-cislo\obj\Debug\net9.0\ref\procviceni-vyssi-cislo.dll

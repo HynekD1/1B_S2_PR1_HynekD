@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\string_procvic\string_procvic\bin\Debug\net9.0\string_procvic.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\string_procvic\string_procvic\bin\Debug\net9.0\string_procvic.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\string_procvic\string_procvic\bin\Debug\net9.0\string_procvic.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\string_procvic\string_procvic\bin\Debug\net9.0\string_procvic.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\string_procvic\string_procvic\bin\Debug\net9.0\string_procvic.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\string_procvic\string_procvic\obj\Debug\net9.0\string_procvic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\string_procvic\string_procvic\obj\Debug\net9.0\string_procvic.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\string_procvic\string_procvic\obj\Debug\net9.0\string_procvic.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\string_procvic\string_procvic\obj\Debug\net9.0\string_procvic.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\string_procvic\string_procvic\obj\Debug\net9.0\string_procvic.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\string_procvic\string_procvic\obj\Debug\net9.0\string_procvic.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\string_procvic\string_procvic\obj\Debug\net9.0\refint\string_procvic.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\string_procvic\string_procvic\obj\Debug\net9.0\string_procvic.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\string_procvic\string_procvic\obj\Debug\net9.0\string_procvic.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\string_procvic\string_procvic\obj\Debug\net9.0\ref\string_procvic.dll

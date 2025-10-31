@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "je_samohlaska/1.0.0": {
+        "runtime": {
+          "je_samohlaska.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "je_samohlaska/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\typ_znaku\typ_znaku\bin\Debug\net9.0\typ_znaku.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\typ_znaku\typ_znaku\bin\Debug\net9.0\typ_znaku.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\typ_znaku\typ_znaku\bin\Debug\net9.0\typ_znaku.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\typ_znaku\typ_znaku\bin\Debug\net9.0\typ_znaku.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\typ_znaku\typ_znaku\bin\Debug\net9.0\typ_znaku.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\typ_znaku\typ_znaku\obj\Debug\net9.0\typ_znaku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\typ_znaku\typ_znaku\obj\Debug\net9.0\typ_znaku.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\typ_znaku\typ_znaku\obj\Debug\net9.0\typ_znaku.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\typ_znaku\typ_znaku\obj\Debug\net9.0\typ_znaku.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\typ_znaku\typ_znaku\obj\Debug\net9.0\typ_znaku.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\typ_znaku\typ_znaku\obj\Debug\net9.0\typ_znaku.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\typ_znaku\typ_znaku\obj\Debug\net9.0\refint\typ_znaku.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\typ_znaku\typ_znaku\obj\Debug\net9.0\typ_znaku.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\typ_znaku\typ_znaku\obj\Debug\net9.0\typ_znaku.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\typ_znaku\typ_znaku\obj\Debug\net9.0\ref\typ_znaku.dll

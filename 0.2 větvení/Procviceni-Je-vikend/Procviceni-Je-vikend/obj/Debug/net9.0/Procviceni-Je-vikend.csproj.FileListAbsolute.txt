@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\Procviceni-Je-vikend\Procviceni-Je-vikend\bin\Debug\net9.0\Procviceni-Je-vikend.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\Procviceni-Je-vikend\Procviceni-Je-vikend\bin\Debug\net9.0\Procviceni-Je-vikend.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\Procviceni-Je-vikend\Procviceni-Je-vikend\bin\Debug\net9.0\Procviceni-Je-vikend.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\Procviceni-Je-vikend\Procviceni-Je-vikend\bin\Debug\net9.0\Procviceni-Je-vikend.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\Procviceni-Je-vikend\Procviceni-Je-vikend\bin\Debug\net9.0\Procviceni-Je-vikend.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\Procviceni-Je-vikend\Procviceni-Je-vikend\obj\Debug\net9.0\Procviceni-Je-vikend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\Procviceni-Je-vikend\Procviceni-Je-vikend\obj\Debug\net9.0\Procviceni-Je-vikend.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\Procviceni-Je-vikend\Procviceni-Je-vikend\obj\Debug\net9.0\Procviceni-Je-vikend.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\Procviceni-Je-vikend\Procviceni-Je-vikend\obj\Debug\net9.0\Procviceni-Je-vikend.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\Procviceni-Je-vikend\Procviceni-Je-vikend\obj\Debug\net9.0\Procviceni-Je-vikend.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\Procviceni-Je-vikend\Procviceni-Je-vikend\obj\Debug\net9.0\Procviceni-Je-vikend.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\Procviceni-Je-vikend\Procviceni-Je-vikend\obj\Debug\net9.0\refint\Procviceni-Je-vikend.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\Procviceni-Je-vikend\Procviceni-Je-vikend\obj\Debug\net9.0\Procviceni-Je-vikend.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\Procviceni-Je-vikend\Procviceni-Je-vikend\obj\Debug\net9.0\Procviceni-Je-vikend.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\Procviceni-Je-vikend\Procviceni-Je-vikend\obj\Debug\net9.0\ref\Procviceni-Je-vikend.dll

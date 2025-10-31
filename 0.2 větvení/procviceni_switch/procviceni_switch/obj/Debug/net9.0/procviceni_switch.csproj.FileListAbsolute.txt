@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_switch\procviceni_switch\bin\Debug\net9.0\procviceni_switch.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_switch\procviceni_switch\bin\Debug\net9.0\procviceni_switch.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_switch\procviceni_switch\bin\Debug\net9.0\procviceni_switch.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_switch\procviceni_switch\bin\Debug\net9.0\procviceni_switch.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_switch\procviceni_switch\bin\Debug\net9.0\procviceni_switch.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_switch\procviceni_switch\obj\Debug\net9.0\procviceni_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_switch\procviceni_switch\obj\Debug\net9.0\procviceni_switch.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_switch\procviceni_switch\obj\Debug\net9.0\procviceni_switch.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_switch\procviceni_switch\obj\Debug\net9.0\procviceni_switch.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_switch\procviceni_switch\obj\Debug\net9.0\procviceni_switch.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_switch\procviceni_switch\obj\Debug\net9.0\procviceni_switch.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_switch\procviceni_switch\obj\Debug\net9.0\refint\procviceni_switch.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_switch\procviceni_switch\obj\Debug\net9.0\procviceni_switch.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_switch\procviceni_switch\obj\Debug\net9.0\procviceni_switch.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_switch\procviceni_switch\obj\Debug\net9.0\ref\procviceni_switch.dll

@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kamen_nuzky_papir\kamen_nuzky_papir\bin\Debug\net9.0\kamen_nuzky_papir.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kamen_nuzky_papir\kamen_nuzky_papir\bin\Debug\net9.0\kamen_nuzky_papir.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kamen_nuzky_papir\kamen_nuzky_papir\bin\Debug\net9.0\kamen_nuzky_papir.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kamen_nuzky_papir\kamen_nuzky_papir\bin\Debug\net9.0\kamen_nuzky_papir.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kamen_nuzky_papir\kamen_nuzky_papir\bin\Debug\net9.0\kamen_nuzky_papir.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kamen_nuzky_papir\kamen_nuzky_papir\obj\Debug\net9.0\kamen_nuzky_papir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kamen_nuzky_papir\kamen_nuzky_papir\obj\Debug\net9.0\kamen_nuzky_papir.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kamen_nuzky_papir\kamen_nuzky_papir\obj\Debug\net9.0\kamen_nuzky_papir.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kamen_nuzky_papir\kamen_nuzky_papir\obj\Debug\net9.0\kamen_nuzky_papir.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kamen_nuzky_papir\kamen_nuzky_papir\obj\Debug\net9.0\kamen_nuzky_papir.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kamen_nuzky_papir\kamen_nuzky_papir\obj\Debug\net9.0\kamen_nuzky_papir.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kamen_nuzky_papir\kamen_nuzky_papir\obj\Debug\net9.0\refint\kamen_nuzky_papir.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kamen_nuzky_papir\kamen_nuzky_papir\obj\Debug\net9.0\kamen_nuzky_papir.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kamen_nuzky_papir\kamen_nuzky_papir\obj\Debug\net9.0\kamen_nuzky_papir.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\kamen_nuzky_papir\kamen_nuzky_papir\obj\Debug\net9.0\ref\kamen_nuzky_papir.dll

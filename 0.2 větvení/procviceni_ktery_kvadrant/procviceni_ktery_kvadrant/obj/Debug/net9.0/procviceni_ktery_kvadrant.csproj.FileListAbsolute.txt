@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_ktery_kvadrant\procviceni_ktery_kvadrant\bin\Debug\net9.0\procviceni_ktery_kvadrant.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_ktery_kvadrant\procviceni_ktery_kvadrant\bin\Debug\net9.0\procviceni_ktery_kvadrant.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_ktery_kvadrant\procviceni_ktery_kvadrant\bin\Debug\net9.0\procviceni_ktery_kvadrant.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_ktery_kvadrant\procviceni_ktery_kvadrant\bin\Debug\net9.0\procviceni_ktery_kvadrant.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_ktery_kvadrant\procviceni_ktery_kvadrant\bin\Debug\net9.0\procviceni_ktery_kvadrant.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_ktery_kvadrant\procviceni_ktery_kvadrant\obj\Debug\net9.0\procviceni_ktery_kvadrant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_ktery_kvadrant\procviceni_ktery_kvadrant\obj\Debug\net9.0\procviceni_ktery_kvadrant.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_ktery_kvadrant\procviceni_ktery_kvadrant\obj\Debug\net9.0\procviceni_ktery_kvadrant.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_ktery_kvadrant\procviceni_ktery_kvadrant\obj\Debug\net9.0\procviceni_ktery_kvadrant.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_ktery_kvadrant\procviceni_ktery_kvadrant\obj\Debug\net9.0\procviceni_ktery_kvadrant.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_ktery_kvadrant\procviceni_ktery_kvadrant\obj\Debug\net9.0\procviceni_ktery_kvadrant.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_ktery_kvadrant\procviceni_ktery_kvadrant\obj\Debug\net9.0\refint\procviceni_ktery_kvadrant.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_ktery_kvadrant\procviceni_ktery_kvadrant\obj\Debug\net9.0\procviceni_ktery_kvadrant.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_ktery_kvadrant\procviceni_ktery_kvadrant\obj\Debug\net9.0\procviceni_ktery_kvadrant.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.2 větvení\procviceni_ktery_kvadrant\procviceni_ktery_kvadrant\obj\Debug\net9.0\ref\procviceni_ktery_kvadrant.dll

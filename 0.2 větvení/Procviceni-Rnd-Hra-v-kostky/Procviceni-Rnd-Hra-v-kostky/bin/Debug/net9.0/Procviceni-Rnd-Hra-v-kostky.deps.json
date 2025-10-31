@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Procviceni-Rnd-Hra-v-kostky/1.0.0": {
+        "runtime": {
+          "Procviceni-Rnd-Hra-v-kostky.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Procviceni-Rnd-Hra-v-kostky/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
