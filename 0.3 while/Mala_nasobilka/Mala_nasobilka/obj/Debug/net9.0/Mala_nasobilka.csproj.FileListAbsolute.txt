@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Mala_nasobilka\Mala_nasobilka\bin\Debug\net9.0\Mala_nasobilka.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Mala_nasobilka\Mala_nasobilka\bin\Debug\net9.0\Mala_nasobilka.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Mala_nasobilka\Mala_nasobilka\bin\Debug\net9.0\Mala_nasobilka.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Mala_nasobilka\Mala_nasobilka\bin\Debug\net9.0\Mala_nasobilka.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Mala_nasobilka\Mala_nasobilka\bin\Debug\net9.0\Mala_nasobilka.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Mala_nasobilka\Mala_nasobilka\obj\Debug\net9.0\Mala_nasobilka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Mala_nasobilka\Mala_nasobilka\obj\Debug\net9.0\Mala_nasobilka.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Mala_nasobilka\Mala_nasobilka\obj\Debug\net9.0\Mala_nasobilka.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Mala_nasobilka\Mala_nasobilka\obj\Debug\net9.0\Mala_nasobilka.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Mala_nasobilka\Mala_nasobilka\obj\Debug\net9.0\Mala_nasobilka.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Mala_nasobilka\Mala_nasobilka\obj\Debug\net9.0\Mala_nasobilka.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Mala_nasobilka\Mala_nasobilka\obj\Debug\net9.0\refint\Mala_nasobilka.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Mala_nasobilka\Mala_nasobilka\obj\Debug\net9.0\Mala_nasobilka.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Mala_nasobilka\Mala_nasobilka\obj\Debug\net9.0\Mala_nasobilka.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Mala_nasobilka\Mala_nasobilka\obj\Debug\net9.0\ref\Mala_nasobilka.dll

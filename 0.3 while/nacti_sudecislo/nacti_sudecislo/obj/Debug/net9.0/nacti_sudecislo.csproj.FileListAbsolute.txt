@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\nacti_sudecislo\nacti_sudecislo\bin\Debug\net9.0\nacti_sudecislo.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\nacti_sudecislo\nacti_sudecislo\bin\Debug\net9.0\nacti_sudecislo.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\nacti_sudecislo\nacti_sudecislo\bin\Debug\net9.0\nacti_sudecislo.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\nacti_sudecislo\nacti_sudecislo\bin\Debug\net9.0\nacti_sudecislo.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\nacti_sudecislo\nacti_sudecislo\bin\Debug\net9.0\nacti_sudecislo.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\nacti_sudecislo\nacti_sudecislo\obj\Debug\net9.0\nacti_sudecislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\nacti_sudecislo\nacti_sudecislo\obj\Debug\net9.0\nacti_sudecislo.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\nacti_sudecislo\nacti_sudecislo\obj\Debug\net9.0\nacti_sudecislo.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\nacti_sudecislo\nacti_sudecislo\obj\Debug\net9.0\nacti_sudecislo.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\nacti_sudecislo\nacti_sudecislo\obj\Debug\net9.0\nacti_sudecislo.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\nacti_sudecislo\nacti_sudecislo\obj\Debug\net9.0\nacti_sudecislo.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\nacti_sudecislo\nacti_sudecislo\obj\Debug\net9.0\refint\nacti_sudecislo.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\nacti_sudecislo\nacti_sudecislo\obj\Debug\net9.0\nacti_sudecislo.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\nacti_sudecislo\nacti_sudecislo\obj\Debug\net9.0\nacti_sudecislo.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\nacti_sudecislo\nacti_sudecislo\obj\Debug\net9.0\ref\nacti_sudecislo.dll
