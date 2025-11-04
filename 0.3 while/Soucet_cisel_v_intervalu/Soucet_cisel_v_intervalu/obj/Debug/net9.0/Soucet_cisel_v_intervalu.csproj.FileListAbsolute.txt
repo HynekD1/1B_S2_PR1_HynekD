@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Soucet_cisel_v_intervalu\Soucet_cisel_v_intervalu\bin\Debug\net9.0\Soucet_cisel_v_intervalu.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Soucet_cisel_v_intervalu\Soucet_cisel_v_intervalu\bin\Debug\net9.0\Soucet_cisel_v_intervalu.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Soucet_cisel_v_intervalu\Soucet_cisel_v_intervalu\bin\Debug\net9.0\Soucet_cisel_v_intervalu.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Soucet_cisel_v_intervalu\Soucet_cisel_v_intervalu\bin\Debug\net9.0\Soucet_cisel_v_intervalu.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Soucet_cisel_v_intervalu\Soucet_cisel_v_intervalu\bin\Debug\net9.0\Soucet_cisel_v_intervalu.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Soucet_cisel_v_intervalu\Soucet_cisel_v_intervalu\obj\Debug\net9.0\Soucet_cisel_v_intervalu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Soucet_cisel_v_intervalu\Soucet_cisel_v_intervalu\obj\Debug\net9.0\Soucet_cisel_v_intervalu.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Soucet_cisel_v_intervalu\Soucet_cisel_v_intervalu\obj\Debug\net9.0\Soucet_cisel_v_intervalu.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Soucet_cisel_v_intervalu\Soucet_cisel_v_intervalu\obj\Debug\net9.0\Soucet_cisel_v_intervalu.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Soucet_cisel_v_intervalu\Soucet_cisel_v_intervalu\obj\Debug\net9.0\Soucet_cisel_v_intervalu.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Soucet_cisel_v_intervalu\Soucet_cisel_v_intervalu\obj\Debug\net9.0\Soucet_cisel_v_intervalu.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Soucet_cisel_v_intervalu\Soucet_cisel_v_intervalu\obj\Debug\net9.0\refint\Soucet_cisel_v_intervalu.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Soucet_cisel_v_intervalu\Soucet_cisel_v_intervalu\obj\Debug\net9.0\Soucet_cisel_v_intervalu.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Soucet_cisel_v_intervalu\Soucet_cisel_v_intervalu\obj\Debug\net9.0\Soucet_cisel_v_intervalu.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Soucet_cisel_v_intervalu\Soucet_cisel_v_intervalu\obj\Debug\net9.0\ref\Soucet_cisel_v_intervalu.dll
