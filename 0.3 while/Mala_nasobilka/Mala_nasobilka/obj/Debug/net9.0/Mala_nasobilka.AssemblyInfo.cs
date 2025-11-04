@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mala_nasobilka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3f84c1a82781df0b100ec9514015fe2894d0053")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daaa7779dc90eabb28abdae26123e573812aab66")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mala_nasobilka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mala_nasobilka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
