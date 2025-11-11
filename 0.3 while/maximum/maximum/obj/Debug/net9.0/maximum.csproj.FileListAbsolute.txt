@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\maximum\maximum\bin\Debug\net9.0\maximum.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\maximum\maximum\bin\Debug\net9.0\maximum.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\maximum\maximum\bin\Debug\net9.0\maximum.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\maximum\maximum\bin\Debug\net9.0\maximum.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\maximum\maximum\bin\Debug\net9.0\maximum.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\maximum\maximum\obj\Debug\net9.0\maximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\maximum\maximum\obj\Debug\net9.0\maximum.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\maximum\maximum\obj\Debug\net9.0\maximum.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\maximum\maximum\obj\Debug\net9.0\maximum.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\maximum\maximum\obj\Debug\net9.0\maximum.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\maximum\maximum\obj\Debug\net9.0\maximum.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\maximum\maximum\obj\Debug\net9.0\refint\maximum.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\maximum\maximum\obj\Debug\net9.0\maximum.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\maximum\maximum\obj\Debug\net9.0\maximum.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\maximum\maximum\obj\Debug\net9.0\ref\maximum.dll
