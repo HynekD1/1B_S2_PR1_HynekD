@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hadej_cislo_ktere_myslim\hadej_cislo_ktere_myslim\bin\Debug\net9.0\hadej_cislo_ktere_myslim.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hadej_cislo_ktere_myslim\hadej_cislo_ktere_myslim\bin\Debug\net9.0\hadej_cislo_ktere_myslim.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hadej_cislo_ktere_myslim\hadej_cislo_ktere_myslim\bin\Debug\net9.0\hadej_cislo_ktere_myslim.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hadej_cislo_ktere_myslim\hadej_cislo_ktere_myslim\bin\Debug\net9.0\hadej_cislo_ktere_myslim.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hadej_cislo_ktere_myslim\hadej_cislo_ktere_myslim\bin\Debug\net9.0\hadej_cislo_ktere_myslim.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hadej_cislo_ktere_myslim\hadej_cislo_ktere_myslim\obj\Debug\net9.0\hadej_cislo_ktere_myslim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hadej_cislo_ktere_myslim\hadej_cislo_ktere_myslim\obj\Debug\net9.0\hadej_cislo_ktere_myslim.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hadej_cislo_ktere_myslim\hadej_cislo_ktere_myslim\obj\Debug\net9.0\hadej_cislo_ktere_myslim.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hadej_cislo_ktere_myslim\hadej_cislo_ktere_myslim\obj\Debug\net9.0\hadej_cislo_ktere_myslim.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hadej_cislo_ktere_myslim\hadej_cislo_ktere_myslim\obj\Debug\net9.0\hadej_cislo_ktere_myslim.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hadej_cislo_ktere_myslim\hadej_cislo_ktere_myslim\obj\Debug\net9.0\hadej_cislo_ktere_myslim.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hadej_cislo_ktere_myslim\hadej_cislo_ktere_myslim\obj\Debug\net9.0\refint\hadej_cislo_ktere_myslim.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hadej_cislo_ktere_myslim\hadej_cislo_ktere_myslim\obj\Debug\net9.0\hadej_cislo_ktere_myslim.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hadej_cislo_ktere_myslim\hadej_cislo_ktere_myslim\obj\Debug\net9.0\hadej_cislo_ktere_myslim.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hadej_cislo_ktere_myslim\hadej_cislo_ktere_myslim\obj\Debug\net9.0\ref\hadej_cislo_ktere_myslim.dll

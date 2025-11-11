@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "hadej_cislo_ktere_myslim/1.0.0": {
+        "runtime": {
+          "hadej_cislo_ktere_myslim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hadej_cislo_ktere_myslim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
