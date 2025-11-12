@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\serie_sestek\serie_sestek\bin\Debug\net9.0\serie_sestek.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\serie_sestek\serie_sestek\bin\Debug\net9.0\serie_sestek.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\serie_sestek\serie_sestek\bin\Debug\net9.0\serie_sestek.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\serie_sestek\serie_sestek\bin\Debug\net9.0\serie_sestek.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\serie_sestek\serie_sestek\bin\Debug\net9.0\serie_sestek.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\serie_sestek\serie_sestek\obj\Debug\net9.0\serie_sestek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\serie_sestek\serie_sestek\obj\Debug\net9.0\serie_sestek.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\serie_sestek\serie_sestek\obj\Debug\net9.0\serie_sestek.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\serie_sestek\serie_sestek\obj\Debug\net9.0\serie_sestek.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\serie_sestek\serie_sestek\obj\Debug\net9.0\serie_sestek.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\serie_sestek\serie_sestek\obj\Debug\net9.0\serie_sestek.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\serie_sestek\serie_sestek\obj\Debug\net9.0\refint\serie_sestek.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\serie_sestek\serie_sestek\obj\Debug\net9.0\serie_sestek.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\serie_sestek\serie_sestek\obj\Debug\net9.0\serie_sestek.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\serie_sestek\serie_sestek\obj\Debug\net9.0\ref\serie_sestek.dll

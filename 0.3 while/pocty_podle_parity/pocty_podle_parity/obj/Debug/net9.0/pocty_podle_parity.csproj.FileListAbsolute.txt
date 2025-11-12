@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\pocty_podle_parity\pocty_podle_parity\bin\Debug\net9.0\pocty_podle_parity.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\pocty_podle_parity\pocty_podle_parity\bin\Debug\net9.0\pocty_podle_parity.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\pocty_podle_parity\pocty_podle_parity\bin\Debug\net9.0\pocty_podle_parity.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\pocty_podle_parity\pocty_podle_parity\bin\Debug\net9.0\pocty_podle_parity.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\pocty_podle_parity\pocty_podle_parity\bin\Debug\net9.0\pocty_podle_parity.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\pocty_podle_parity\pocty_podle_parity\obj\Debug\net9.0\pocty_podle_parity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\pocty_podle_parity\pocty_podle_parity\obj\Debug\net9.0\pocty_podle_parity.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\pocty_podle_parity\pocty_podle_parity\obj\Debug\net9.0\pocty_podle_parity.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\pocty_podle_parity\pocty_podle_parity\obj\Debug\net9.0\pocty_podle_parity.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\pocty_podle_parity\pocty_podle_parity\obj\Debug\net9.0\pocty_podle_parity.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\pocty_podle_parity\pocty_podle_parity\obj\Debug\net9.0\pocty_podle_parity.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\pocty_podle_parity\pocty_podle_parity\obj\Debug\net9.0\refint\pocty_podle_parity.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\pocty_podle_parity\pocty_podle_parity\obj\Debug\net9.0\pocty_podle_parity.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\pocty_podle_parity\pocty_podle_parity\obj\Debug\net9.0\pocty_podle_parity.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\pocty_podle_parity\pocty_podle_parity\obj\Debug\net9.0\ref\pocty_podle_parity.dll

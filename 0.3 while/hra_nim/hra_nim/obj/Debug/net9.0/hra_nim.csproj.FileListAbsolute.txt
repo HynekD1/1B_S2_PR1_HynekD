@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hra_nim\hra_nim\bin\Debug\net9.0\hra_nim.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hra_nim\hra_nim\bin\Debug\net9.0\hra_nim.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hra_nim\hra_nim\bin\Debug\net9.0\hra_nim.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hra_nim\hra_nim\bin\Debug\net9.0\hra_nim.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hra_nim\hra_nim\bin\Debug\net9.0\hra_nim.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hra_nim\hra_nim\obj\Debug\net9.0\hra_nim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hra_nim\hra_nim\obj\Debug\net9.0\hra_nim.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hra_nim\hra_nim\obj\Debug\net9.0\hra_nim.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hra_nim\hra_nim\obj\Debug\net9.0\hra_nim.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hra_nim\hra_nim\obj\Debug\net9.0\hra_nim.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hra_nim\hra_nim\obj\Debug\net9.0\hra_nim.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hra_nim\hra_nim\obj\Debug\net9.0\refint\hra_nim.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hra_nim\hra_nim\obj\Debug\net9.0\hra_nim.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hra_nim\hra_nim\obj\Debug\net9.0\hra_nim.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\hra_nim\hra_nim\obj\Debug\net9.0\ref\hra_nim.dll
