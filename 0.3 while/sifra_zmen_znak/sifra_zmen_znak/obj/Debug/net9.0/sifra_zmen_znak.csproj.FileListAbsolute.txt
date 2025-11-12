@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\sifra_zmen_znak\sifra_zmen_znak\bin\Debug\net9.0\sifra_zmen_znak.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\sifra_zmen_znak\sifra_zmen_znak\bin\Debug\net9.0\sifra_zmen_znak.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\sifra_zmen_znak\sifra_zmen_znak\bin\Debug\net9.0\sifra_zmen_znak.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\sifra_zmen_znak\sifra_zmen_znak\bin\Debug\net9.0\sifra_zmen_znak.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\sifra_zmen_znak\sifra_zmen_znak\bin\Debug\net9.0\sifra_zmen_znak.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\sifra_zmen_znak\sifra_zmen_znak\obj\Debug\net9.0\sifra_zmen_znak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\sifra_zmen_znak\sifra_zmen_znak\obj\Debug\net9.0\sifra_zmen_znak.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\sifra_zmen_znak\sifra_zmen_znak\obj\Debug\net9.0\sifra_zmen_znak.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\sifra_zmen_znak\sifra_zmen_znak\obj\Debug\net9.0\sifra_zmen_znak.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\sifra_zmen_znak\sifra_zmen_znak\obj\Debug\net9.0\sifra_zmen_znak.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\sifra_zmen_znak\sifra_zmen_znak\obj\Debug\net9.0\sifra_zmen_znak.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\sifra_zmen_znak\sifra_zmen_znak\obj\Debug\net9.0\refint\sifra_zmen_znak.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\sifra_zmen_znak\sifra_zmen_znak\obj\Debug\net9.0\sifra_zmen_znak.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\sifra_zmen_znak\sifra_zmen_znak\obj\Debug\net9.0\sifra_zmen_znak.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\sifra_zmen_znak\sifra_zmen_znak\obj\Debug\net9.0\ref\sifra_zmen_znak.dll

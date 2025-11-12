@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Cesarova_sifra\Cesarova_sifra\bin\Debug\net9.0\Cesarova_sifra.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Cesarova_sifra\Cesarova_sifra\bin\Debug\net9.0\Cesarova_sifra.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Cesarova_sifra\Cesarova_sifra\bin\Debug\net9.0\Cesarova_sifra.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Cesarova_sifra\Cesarova_sifra\bin\Debug\net9.0\Cesarova_sifra.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Cesarova_sifra\Cesarova_sifra\bin\Debug\net9.0\Cesarova_sifra.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Cesarova_sifra\Cesarova_sifra\obj\Debug\net9.0\Cesarova_sifra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Cesarova_sifra\Cesarova_sifra\obj\Debug\net9.0\Cesarova_sifra.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Cesarova_sifra\Cesarova_sifra\obj\Debug\net9.0\Cesarova_sifra.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Cesarova_sifra\Cesarova_sifra\obj\Debug\net9.0\Cesarova_sifra.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Cesarova_sifra\Cesarova_sifra\obj\Debug\net9.0\Cesarova_sifra.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Cesarova_sifra\Cesarova_sifra\obj\Debug\net9.0\Cesarova_sifra.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Cesarova_sifra\Cesarova_sifra\obj\Debug\net9.0\refint\Cesarova_sifra.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Cesarova_sifra\Cesarova_sifra\obj\Debug\net9.0\Cesarova_sifra.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Cesarova_sifra\Cesarova_sifra\obj\Debug\net9.0\Cesarova_sifra.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Cesarova_sifra\Cesarova_sifra\obj\Debug\net9.0\ref\Cesarova_sifra.dll

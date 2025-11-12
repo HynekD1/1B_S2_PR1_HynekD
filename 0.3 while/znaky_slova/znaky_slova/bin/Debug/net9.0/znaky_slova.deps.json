@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "znaky_slova/1.0.0": {
+        "runtime": {
+          "znaky_slova.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "znaky_slova/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
