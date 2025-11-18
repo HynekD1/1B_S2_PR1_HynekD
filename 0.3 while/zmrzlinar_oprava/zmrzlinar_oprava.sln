@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zmrzlinar_oprava", "zmrzlinar_oprava\zmrzlinar_oprava.csproj", "{79560F89-9F50-4703-B366-087590C0953B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79560F89-9F50-4703-B366-087590C0953B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79560F89-9F50-4703-B366-087590C0953B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79560F89-9F50-4703-B366-087590C0953B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79560F89-9F50-4703-B366-087590C0953B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BB2E9ED-24BF-4D5A-8D84-0EB7206C1784}
+	EndGlobalSection
+EndGlobal
