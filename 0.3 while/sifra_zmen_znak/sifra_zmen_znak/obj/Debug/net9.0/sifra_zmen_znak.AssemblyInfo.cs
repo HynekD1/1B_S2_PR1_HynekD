@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sifra_zmen_znak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a04b6d0a595fc391b46c2aac5d362c431612765")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+205ab00e766761835ecc95d5e54e38ce2d3b54a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("sifra_zmen_znak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sifra_zmen_znak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

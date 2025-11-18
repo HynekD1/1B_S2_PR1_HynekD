@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\zmrzlinar_test\zmrzlinar_test\bin\Debug\net9.0\zmrzlinar_test.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\zmrzlinar_test\zmrzlinar_test\bin\Debug\net9.0\zmrzlinar_test.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\zmrzlinar_test\zmrzlinar_test\bin\Debug\net9.0\zmrzlinar_test.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\zmrzlinar_test\zmrzlinar_test\bin\Debug\net9.0\zmrzlinar_test.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\zmrzlinar_test\zmrzlinar_test\bin\Debug\net9.0\zmrzlinar_test.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\zmrzlinar_test\zmrzlinar_test\obj\Debug\net9.0\zmrzlinar_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\zmrzlinar_test\zmrzlinar_test\obj\Debug\net9.0\zmrzlinar_test.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\zmrzlinar_test\zmrzlinar_test\obj\Debug\net9.0\zmrzlinar_test.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\zmrzlinar_test\zmrzlinar_test\obj\Debug\net9.0\zmrzlinar_test.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\zmrzlinar_test\zmrzlinar_test\obj\Debug\net9.0\zmrzlinar_test.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\zmrzlinar_test\zmrzlinar_test\obj\Debug\net9.0\zmrzlinar_test.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\zmrzlinar_test\zmrzlinar_test\obj\Debug\net9.0\refint\zmrzlinar_test.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\zmrzlinar_test\zmrzlinar_test\obj\Debug\net9.0\zmrzlinar_test.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\zmrzlinar_test\zmrzlinar_test\obj\Debug\net9.0\zmrzlinar_test.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\zmrzlinar_test\zmrzlinar_test\obj\Debug\net9.0\ref\zmrzlinar_test.dll

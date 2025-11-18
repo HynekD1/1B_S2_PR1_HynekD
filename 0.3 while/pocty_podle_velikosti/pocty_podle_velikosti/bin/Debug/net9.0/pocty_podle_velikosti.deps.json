@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "pocty_podle_velikosti/1.0.0": {
+        "runtime": {
+          "pocty_podle_velikosti.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pocty_podle_velikosti/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
