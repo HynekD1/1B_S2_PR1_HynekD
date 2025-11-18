@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_odpocet\Procviceni_odpocet\bin\Debug\net9.0\Procviceni_odpocet.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_odpocet\Procviceni_odpocet\bin\Debug\net9.0\Procviceni_odpocet.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_odpocet\Procviceni_odpocet\bin\Debug\net9.0\Procviceni_odpocet.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_odpocet\Procviceni_odpocet\bin\Debug\net9.0\Procviceni_odpocet.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_odpocet\Procviceni_odpocet\bin\Debug\net9.0\Procviceni_odpocet.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_odpocet\Procviceni_odpocet\obj\Debug\net9.0\Procviceni_odpocet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_odpocet\Procviceni_odpocet\obj\Debug\net9.0\Procviceni_odpocet.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_odpocet\Procviceni_odpocet\obj\Debug\net9.0\Procviceni_odpocet.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_odpocet\Procviceni_odpocet\obj\Debug\net9.0\Procviceni_odpocet.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_odpocet\Procviceni_odpocet\obj\Debug\net9.0\Procviceni_odpocet.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_odpocet\Procviceni_odpocet\obj\Debug\net9.0\Procviceni_odpocet.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_odpocet\Procviceni_odpocet\obj\Debug\net9.0\refint\Procviceni_odpocet.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_odpocet\Procviceni_odpocet\obj\Debug\net9.0\Procviceni_odpocet.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_odpocet\Procviceni_odpocet\obj\Debug\net9.0\Procviceni_odpocet.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_odpocet\Procviceni_odpocet\obj\Debug\net9.0\ref\Procviceni_odpocet.dll

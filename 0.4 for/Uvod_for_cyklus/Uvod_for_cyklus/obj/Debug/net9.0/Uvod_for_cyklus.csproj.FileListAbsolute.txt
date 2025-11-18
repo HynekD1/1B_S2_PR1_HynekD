@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Uvod_for_cyklus\Uvod_for_cyklus\obj\Debug\net9.0\Uvod_for_cyklus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Uvod_for_cyklus\Uvod_for_cyklus\obj\Debug\net9.0\Uvod_for_cyklus.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Uvod_for_cyklus\Uvod_for_cyklus\obj\Debug\net9.0\Uvod_for_cyklus.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Uvod_for_cyklus\Uvod_for_cyklus\obj\Debug\net9.0\Uvod_for_cyklus.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Uvod_for_cyklus\Uvod_for_cyklus\obj\Debug\net9.0\Uvod_for_cyklus.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Uvod_for_cyklus\Uvod_for_cyklus\bin\Debug\net9.0\Uvod_for_cyklus.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Uvod_for_cyklus\Uvod_for_cyklus\bin\Debug\net9.0\Uvod_for_cyklus.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Uvod_for_cyklus\Uvod_for_cyklus\bin\Debug\net9.0\Uvod_for_cyklus.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Uvod_for_cyklus\Uvod_for_cyklus\bin\Debug\net9.0\Uvod_for_cyklus.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Uvod_for_cyklus\Uvod_for_cyklus\bin\Debug\net9.0\Uvod_for_cyklus.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Uvod_for_cyklus\Uvod_for_cyklus\obj\Debug\net9.0\Uvod_for_cyklus.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Uvod_for_cyklus\Uvod_for_cyklus\obj\Debug\net9.0\refint\Uvod_for_cyklus.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Uvod_for_cyklus\Uvod_for_cyklus\obj\Debug\net9.0\Uvod_for_cyklus.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Uvod_for_cyklus\Uvod_for_cyklus\obj\Debug\net9.0\Uvod_for_cyklus.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Uvod_for_cyklus\Uvod_for_cyklus\obj\Debug\net9.0\ref\Uvod_for_cyklus.dll

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dominik\\OneDrive - DELTA - S\u0160IE, s.r.o\\Dokumenty\\Studio visual\\PR1_1B_2025.2026\\0.4 for\\Procviceni_pred_pikolou\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88A37544-8A6E-47B6-85B1-DF8AE869BFF3}|Procviceni_pred_pikolou\\Procviceni_pred_pikolou.csproj|c:\\users\\dominik\\onedrive - delta - s\u0161ie, s.r.o\\dokumenty\\studio visual\\pr1_1b_2025.2026\\0.4 for\\procviceni_pred_pikolou\\procviceni_pred_pikolou\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A37544-8A6E-47B6-85B1-DF8AE869BFF3}|Procviceni_pred_pikolou\\Procviceni_pred_pikolou.csproj|solutionrelative:procviceni_pred_pikolou\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\OneDrive - DELTA - S\u0160IE, s.r.o\\Dokumenty\\Studio visual\\PR1_1B_2025.2026\\0.4 for\\Procviceni_pred_pikolou\\Procviceni_pred_pikolou\\Program.cs",
+              "RelativeDocumentMoniker": "Procviceni_pred_pikolou\\Program.cs",
+              "ToolTip": "C:\\Users\\Dominik\\OneDrive - DELTA - S\u0160IE, s.r.o\\Dokumenty\\Studio visual\\PR1_1B_2025.2026\\0.4 for\\Procviceni_pred_pikolou\\Procviceni_pred_pikolou\\Program.cs",
+              "RelativeToolTip": "Procviceni_pred_pikolou\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:24:00.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

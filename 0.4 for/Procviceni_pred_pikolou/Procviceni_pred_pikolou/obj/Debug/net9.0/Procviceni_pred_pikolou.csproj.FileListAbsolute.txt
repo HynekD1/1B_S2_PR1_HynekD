@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_pred_pikolou\Procviceni_pred_pikolou\obj\Debug\net9.0\Procviceni_pred_pikolou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_pred_pikolou\Procviceni_pred_pikolou\obj\Debug\net9.0\Procviceni_pred_pikolou.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_pred_pikolou\Procviceni_pred_pikolou\obj\Debug\net9.0\Procviceni_pred_pikolou.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_pred_pikolou\Procviceni_pred_pikolou\obj\Debug\net9.0\Procviceni_pred_pikolou.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_pred_pikolou\Procviceni_pred_pikolou\obj\Debug\net9.0\Procviceni_pred_pikolou.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_pred_pikolou\Procviceni_pred_pikolou\bin\Debug\net9.0\Procviceni_pred_pikolou.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_pred_pikolou\Procviceni_pred_pikolou\bin\Debug\net9.0\Procviceni_pred_pikolou.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_pred_pikolou\Procviceni_pred_pikolou\bin\Debug\net9.0\Procviceni_pred_pikolou.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_pred_pikolou\Procviceni_pred_pikolou\bin\Debug\net9.0\Procviceni_pred_pikolou.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_pred_pikolou\Procviceni_pred_pikolou\bin\Debug\net9.0\Procviceni_pred_pikolou.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_pred_pikolou\Procviceni_pred_pikolou\obj\Debug\net9.0\Procviceni_pred_pikolou.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_pred_pikolou\Procviceni_pred_pikolou\obj\Debug\net9.0\refint\Procviceni_pred_pikolou.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_pred_pikolou\Procviceni_pred_pikolou\obj\Debug\net9.0\Procviceni_pred_pikolou.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_pred_pikolou\Procviceni_pred_pikolou\obj\Debug\net9.0\Procviceni_pred_pikolou.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_pred_pikolou\Procviceni_pred_pikolou\obj\Debug\net9.0\ref\Procviceni_pred_pikolou.dll

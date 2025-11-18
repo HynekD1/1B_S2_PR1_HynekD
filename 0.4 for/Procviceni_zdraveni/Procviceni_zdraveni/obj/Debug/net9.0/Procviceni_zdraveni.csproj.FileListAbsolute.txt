@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_zdraveni\Procviceni_zdraveni\bin\Debug\net9.0\Procviceni_zdraveni.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_zdraveni\Procviceni_zdraveni\bin\Debug\net9.0\Procviceni_zdraveni.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_zdraveni\Procviceni_zdraveni\bin\Debug\net9.0\Procviceni_zdraveni.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_zdraveni\Procviceni_zdraveni\bin\Debug\net9.0\Procviceni_zdraveni.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_zdraveni\Procviceni_zdraveni\bin\Debug\net9.0\Procviceni_zdraveni.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_zdraveni\Procviceni_zdraveni\obj\Debug\net9.0\Procviceni_zdraveni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_zdraveni\Procviceni_zdraveni\obj\Debug\net9.0\Procviceni_zdraveni.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_zdraveni\Procviceni_zdraveni\obj\Debug\net9.0\Procviceni_zdraveni.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_zdraveni\Procviceni_zdraveni\obj\Debug\net9.0\Procviceni_zdraveni.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_zdraveni\Procviceni_zdraveni\obj\Debug\net9.0\Procviceni_zdraveni.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_zdraveni\Procviceni_zdraveni\obj\Debug\net9.0\Procviceni_zdraveni.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_zdraveni\Procviceni_zdraveni\obj\Debug\net9.0\refint\Procviceni_zdraveni.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_zdraveni\Procviceni_zdraveni\obj\Debug\net9.0\Procviceni_zdraveni.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_zdraveni\Procviceni_zdraveni\obj\Debug\net9.0\Procviceni_zdraveni.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Procviceni_zdraveni\Procviceni_zdraveni\obj\Debug\net9.0\ref\Procviceni_zdraveni.dll

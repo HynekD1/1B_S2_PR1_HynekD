@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Uvod_for_cyklus/1.0.0": {
+        "runtime": {
+          "Uvod_for_cyklus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uvod_for_cyklus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
