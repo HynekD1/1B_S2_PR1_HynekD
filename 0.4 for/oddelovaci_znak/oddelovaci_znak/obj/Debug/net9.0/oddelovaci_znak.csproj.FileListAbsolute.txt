@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\oddelovaci_znak\oddelovaci_znak\bin\Debug\net9.0\oddelovaci_znak.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\oddelovaci_znak\oddelovaci_znak\bin\Debug\net9.0\oddelovaci_znak.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\oddelovaci_znak\oddelovaci_znak\bin\Debug\net9.0\oddelovaci_znak.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\oddelovaci_znak\oddelovaci_znak\bin\Debug\net9.0\oddelovaci_znak.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\oddelovaci_znak\oddelovaci_znak\bin\Debug\net9.0\oddelovaci_znak.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\oddelovaci_znak\oddelovaci_znak\obj\Debug\net9.0\oddelovaci_znak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\oddelovaci_znak\oddelovaci_znak\obj\Debug\net9.0\oddelovaci_znak.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\oddelovaci_znak\oddelovaci_znak\obj\Debug\net9.0\oddelovaci_znak.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\oddelovaci_znak\oddelovaci_znak\obj\Debug\net9.0\oddelovaci_znak.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\oddelovaci_znak\oddelovaci_znak\obj\Debug\net9.0\oddelovaci_znak.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\oddelovaci_znak\oddelovaci_znak\obj\Debug\net9.0\oddelovaci_znak.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\oddelovaci_znak\oddelovaci_znak\obj\Debug\net9.0\refint\oddelovaci_znak.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\oddelovaci_znak\oddelovaci_znak\obj\Debug\net9.0\oddelovaci_znak.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\oddelovaci_znak\oddelovaci_znak\obj\Debug\net9.0\oddelovaci_znak.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\oddelovaci_znak\oddelovaci_znak\obj\Debug\net9.0\ref\oddelovaci_znak.dll
