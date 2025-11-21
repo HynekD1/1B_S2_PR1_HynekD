@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\for_string\for_string\bin\Debug\net9.0\for_string.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\for_string\for_string\bin\Debug\net9.0\for_string.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\for_string\for_string\bin\Debug\net9.0\for_string.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\for_string\for_string\bin\Debug\net9.0\for_string.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\for_string\for_string\bin\Debug\net9.0\for_string.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\for_string\for_string\obj\Debug\net9.0\for_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\for_string\for_string\obj\Debug\net9.0\for_string.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\for_string\for_string\obj\Debug\net9.0\for_string.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\for_string\for_string\obj\Debug\net9.0\for_string.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\for_string\for_string\obj\Debug\net9.0\for_string.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\for_string\for_string\obj\Debug\net9.0\for_string.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\for_string\for_string\obj\Debug\net9.0\refint\for_string.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\for_string\for_string\obj\Debug\net9.0\for_string.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\for_string\for_string\obj\Debug\net9.0\for_string.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\for_string\for_string\obj\Debug\net9.0\ref\for_string.dll
