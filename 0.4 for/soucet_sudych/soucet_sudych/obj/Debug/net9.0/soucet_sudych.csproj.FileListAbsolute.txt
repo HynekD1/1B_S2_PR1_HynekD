@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\soucet_sudych\soucet_sudych\bin\Debug\net9.0\soucet_sudych.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\soucet_sudych\soucet_sudych\bin\Debug\net9.0\soucet_sudych.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\soucet_sudych\soucet_sudych\bin\Debug\net9.0\soucet_sudych.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\soucet_sudych\soucet_sudych\bin\Debug\net9.0\soucet_sudych.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\soucet_sudych\soucet_sudych\bin\Debug\net9.0\soucet_sudych.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\soucet_sudych\soucet_sudych\obj\Debug\net9.0\soucet_sudych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\soucet_sudych\soucet_sudych\obj\Debug\net9.0\soucet_sudych.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\soucet_sudych\soucet_sudych\obj\Debug\net9.0\soucet_sudych.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\soucet_sudych\soucet_sudych\obj\Debug\net9.0\soucet_sudych.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\soucet_sudych\soucet_sudych\obj\Debug\net9.0\soucet_sudych.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\soucet_sudych\soucet_sudych\obj\Debug\net9.0\soucet_sudych.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\soucet_sudych\soucet_sudych\obj\Debug\net9.0\refint\soucet_sudych.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\soucet_sudych\soucet_sudych\obj\Debug\net9.0\soucet_sudych.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\soucet_sudych\soucet_sudych\obj\Debug\net9.0\soucet_sudych.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\soucet_sudych\soucet_sudych\obj\Debug\net9.0\ref\soucet_sudych.dll

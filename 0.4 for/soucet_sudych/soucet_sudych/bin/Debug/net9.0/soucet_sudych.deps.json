@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "soucet_sudych/1.0.0": {
+        "runtime": {
+          "soucet_sudych.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "soucet_sudych/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
