@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj_expert\sifrovaci_stroj_expert\bin\Debug\net9.0\sifrovaci_stroj_expert.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj_expert\sifrovaci_stroj_expert\bin\Debug\net9.0\sifrovaci_stroj_expert.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj_expert\sifrovaci_stroj_expert\bin\Debug\net9.0\sifrovaci_stroj_expert.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj_expert\sifrovaci_stroj_expert\bin\Debug\net9.0\sifrovaci_stroj_expert.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj_expert\sifrovaci_stroj_expert\bin\Debug\net9.0\sifrovaci_stroj_expert.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj_expert\sifrovaci_stroj_expert\obj\Debug\net9.0\sifrovaci_stroj_expert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj_expert\sifrovaci_stroj_expert\obj\Debug\net9.0\sifrovaci_stroj_expert.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj_expert\sifrovaci_stroj_expert\obj\Debug\net9.0\sifrovaci_stroj_expert.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj_expert\sifrovaci_stroj_expert\obj\Debug\net9.0\sifrovaci_stroj_expert.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj_expert\sifrovaci_stroj_expert\obj\Debug\net9.0\sifrovaci_stroj_expert.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj_expert\sifrovaci_stroj_expert\obj\Debug\net9.0\sifrovaci_stroj_expert.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj_expert\sifrovaci_stroj_expert\obj\Debug\net9.0\refint\sifrovaci_stroj_expert.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj_expert\sifrovaci_stroj_expert\obj\Debug\net9.0\sifrovaci_stroj_expert.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj_expert\sifrovaci_stroj_expert\obj\Debug\net9.0\sifrovaci_stroj_expert.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj_expert\sifrovaci_stroj_expert\obj\Debug\net9.0\ref\sifrovaci_stroj_expert.dll

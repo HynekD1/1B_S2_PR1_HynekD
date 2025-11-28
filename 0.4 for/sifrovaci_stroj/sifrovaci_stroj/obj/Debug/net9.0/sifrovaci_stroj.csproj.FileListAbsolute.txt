@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj\sifrovaci_stroj\bin\Debug\net9.0\sifrovaci_stroj.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj\sifrovaci_stroj\bin\Debug\net9.0\sifrovaci_stroj.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj\sifrovaci_stroj\bin\Debug\net9.0\sifrovaci_stroj.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj\sifrovaci_stroj\bin\Debug\net9.0\sifrovaci_stroj.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj\sifrovaci_stroj\bin\Debug\net9.0\sifrovaci_stroj.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj\sifrovaci_stroj\obj\Debug\net9.0\sifrovaci_stroj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj\sifrovaci_stroj\obj\Debug\net9.0\sifrovaci_stroj.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj\sifrovaci_stroj\obj\Debug\net9.0\sifrovaci_stroj.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj\sifrovaci_stroj\obj\Debug\net9.0\sifrovaci_stroj.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj\sifrovaci_stroj\obj\Debug\net9.0\sifrovaci_stroj.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj\sifrovaci_stroj\obj\Debug\net9.0\sifrovaci_stroj.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj\sifrovaci_stroj\obj\Debug\net9.0\refint\sifrovaci_stroj.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj\sifrovaci_stroj\obj\Debug\net9.0\sifrovaci_stroj.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj\sifrovaci_stroj\obj\Debug\net9.0\sifrovaci_stroj.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\sifrovaci_stroj\sifrovaci_stroj\obj\Debug\net9.0\ref\sifrovaci_stroj.dll

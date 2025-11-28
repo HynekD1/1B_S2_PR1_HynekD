@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\obracene_slovo2\obracene_slovo2\bin\Debug\net9.0\obracene_slovo2.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\obracene_slovo2\obracene_slovo2\bin\Debug\net9.0\obracene_slovo2.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\obracene_slovo2\obracene_slovo2\bin\Debug\net9.0\obracene_slovo2.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\obracene_slovo2\obracene_slovo2\bin\Debug\net9.0\obracene_slovo2.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\obracene_slovo2\obracene_slovo2\bin\Debug\net9.0\obracene_slovo2.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\obracene_slovo2\obracene_slovo2\obj\Debug\net9.0\obracene_slovo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\obracene_slovo2\obracene_slovo2\obj\Debug\net9.0\obracene_slovo2.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\obracene_slovo2\obracene_slovo2\obj\Debug\net9.0\obracene_slovo2.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\obracene_slovo2\obracene_slovo2\obj\Debug\net9.0\obracene_slovo2.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\obracene_slovo2\obracene_slovo2\obj\Debug\net9.0\obracene_slovo2.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\obracene_slovo2\obracene_slovo2\obj\Debug\net9.0\obracene_slovo2.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\obracene_slovo2\obracene_slovo2\obj\Debug\net9.0\refint\obracene_slovo2.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\obracene_slovo2\obracene_slovo2\obj\Debug\net9.0\obracene_slovo2.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\obracene_slovo2\obracene_slovo2\obj\Debug\net9.0\obracene_slovo2.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\obracene_slovo2\obracene_slovo2\obj\Debug\net9.0\ref\obracene_slovo2.dll

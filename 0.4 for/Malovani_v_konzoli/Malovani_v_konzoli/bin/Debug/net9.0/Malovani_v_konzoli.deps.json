@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Malovani_v_konzoli/1.0.0": {
+        "runtime": {
+          "Malovani_v_konzoli.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Malovani_v_konzoli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "malovani_trojuhelnik/1.0.0": {
+        "runtime": {
+          "malovani_trojuhelnik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "malovani_trojuhelnik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

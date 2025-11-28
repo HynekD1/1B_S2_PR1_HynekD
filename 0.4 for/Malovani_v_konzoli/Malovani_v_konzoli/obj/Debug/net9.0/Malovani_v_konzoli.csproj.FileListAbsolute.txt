@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Malovani_v_konzoli\Malovani_v_konzoli\bin\Debug\net9.0\Malovani_v_konzoli.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Malovani_v_konzoli\Malovani_v_konzoli\bin\Debug\net9.0\Malovani_v_konzoli.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Malovani_v_konzoli\Malovani_v_konzoli\bin\Debug\net9.0\Malovani_v_konzoli.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Malovani_v_konzoli\Malovani_v_konzoli\bin\Debug\net9.0\Malovani_v_konzoli.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Malovani_v_konzoli\Malovani_v_konzoli\bin\Debug\net9.0\Malovani_v_konzoli.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\Malovani_v_konzoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\Malovani_v_konzoli.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\Malovani_v_konzoli.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\Malovani_v_konzoli.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\Malovani_v_konzoli.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\Malovani_v_konzoli.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\refint\Malovani_v_konzoli.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\Malovani_v_konzoli.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\Malovani_v_konzoli.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\Malovani_v_konzoli\Malovani_v_konzoli\obj\Debug\net9.0\ref\Malovani_v_konzoli.dll

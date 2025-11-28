@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\jizdni_rady\jizdni_rady\bin\Debug\net9.0\jizdni_rady.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\jizdni_rady\jizdni_rady\bin\Debug\net9.0\jizdni_rady.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\jizdni_rady\jizdni_rady\bin\Debug\net9.0\jizdni_rady.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\jizdni_rady\jizdni_rady\bin\Debug\net9.0\jizdni_rady.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\jizdni_rady\jizdni_rady\bin\Debug\net9.0\jizdni_rady.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\jizdni_rady\jizdni_rady\obj\Debug\net9.0\jizdni_rady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\jizdni_rady\jizdni_rady\obj\Debug\net9.0\jizdni_rady.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\jizdni_rady\jizdni_rady\obj\Debug\net9.0\jizdni_rady.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\jizdni_rady\jizdni_rady\obj\Debug\net9.0\jizdni_rady.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\jizdni_rady\jizdni_rady\obj\Debug\net9.0\jizdni_rady.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\jizdni_rady\jizdni_rady\obj\Debug\net9.0\jizdni_rady.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\jizdni_rady\jizdni_rady\obj\Debug\net9.0\refint\jizdni_rady.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\jizdni_rady\jizdni_rady\obj\Debug\net9.0\jizdni_rady.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\jizdni_rady\jizdni_rady\obj\Debug\net9.0\jizdni_rady.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\jizdni_rady\jizdni_rady\obj\Debug\net9.0\ref\jizdni_rady.dll
