@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("malovani_trojuhelnik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af50ef69aebaf7396e6fd390ddb645b09bfa6a3c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0424c3650fa6b41c939c741ee55194cd203a3f2f")]
 [assembly: System.Reflection.AssemblyProductAttribute("malovani_trojuhelnik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("malovani_trojuhelnik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
