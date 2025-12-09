@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Procviceni_odpocet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26b863cba71c220513a6cbaefdf484a20c4417a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e0c31439279f1dc436286daaff8bbf3ef52a627")]
 [assembly: System.Reflection.AssemblyProductAttribute("Procviceni_odpocet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Procviceni_odpocet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\malovani_kruh\malovani_kruh\bin\Debug\net9.0\malovani_kruh.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\malovani_kruh\malovani_kruh\bin\Debug\net9.0\malovani_kruh.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\malovani_kruh\malovani_kruh\bin\Debug\net9.0\malovani_kruh.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\malovani_kruh\malovani_kruh\bin\Debug\net9.0\malovani_kruh.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\malovani_kruh\malovani_kruh\bin\Debug\net9.0\malovani_kruh.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\malovani_kruh\malovani_kruh\obj\Debug\net9.0\malovani_kruh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\malovani_kruh\malovani_kruh\obj\Debug\net9.0\malovani_kruh.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\malovani_kruh\malovani_kruh\obj\Debug\net9.0\malovani_kruh.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\malovani_kruh\malovani_kruh\obj\Debug\net9.0\malovani_kruh.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\malovani_kruh\malovani_kruh\obj\Debug\net9.0\malovani_kruh.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\malovani_kruh\malovani_kruh\obj\Debug\net9.0\malovani_kruh.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\malovani_kruh\malovani_kruh\obj\Debug\net9.0\refint\malovani_kruh.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\malovani_kruh\malovani_kruh\obj\Debug\net9.0\malovani_kruh.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\malovani_kruh\malovani_kruh\obj\Debug\net9.0\malovani_kruh.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.4 for\malovani_kruh\malovani_kruh\obj\Debug\net9.0\ref\malovani_kruh.dll

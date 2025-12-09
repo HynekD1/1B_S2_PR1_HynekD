@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "podmineni_soucet/1.0.0": {
+        "runtime": {
+          "podmineni_soucet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "podmineni_soucet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

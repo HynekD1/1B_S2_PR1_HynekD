@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kdyz_padne_sestka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df915cec20cd20cd7731a39a976bd754915358bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e0c31439279f1dc436286daaff8bbf3ef52a627")]
 [assembly: System.Reflection.AssemblyProductAttribute("kdyz_padne_sestka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kdyz_padne_sestka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

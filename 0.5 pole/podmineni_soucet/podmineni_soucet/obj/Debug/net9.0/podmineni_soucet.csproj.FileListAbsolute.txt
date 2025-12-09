@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\podmineni_soucet\podmineni_soucet\bin\Debug\net9.0\podmineni_soucet.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\podmineni_soucet\podmineni_soucet\bin\Debug\net9.0\podmineni_soucet.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\podmineni_soucet\podmineni_soucet\bin\Debug\net9.0\podmineni_soucet.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\podmineni_soucet\podmineni_soucet\bin\Debug\net9.0\podmineni_soucet.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\podmineni_soucet\podmineni_soucet\bin\Debug\net9.0\podmineni_soucet.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\podmineni_soucet\podmineni_soucet\obj\Debug\net9.0\podmineni_soucet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\podmineni_soucet\podmineni_soucet\obj\Debug\net9.0\podmineni_soucet.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\podmineni_soucet\podmineni_soucet\obj\Debug\net9.0\podmineni_soucet.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\podmineni_soucet\podmineni_soucet\obj\Debug\net9.0\podmineni_soucet.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\podmineni_soucet\podmineni_soucet\obj\Debug\net9.0\podmineni_soucet.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\podmineni_soucet\podmineni_soucet\obj\Debug\net9.0\podmineni_soucet.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\podmineni_soucet\podmineni_soucet\obj\Debug\net9.0\refint\podmineni_soucet.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\podmineni_soucet\podmineni_soucet\obj\Debug\net9.0\podmineni_soucet.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\podmineni_soucet\podmineni_soucet\obj\Debug\net9.0\podmineni_soucet.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\podmineni_soucet\podmineni_soucet\obj\Debug\net9.0\ref\podmineni_soucet.dll

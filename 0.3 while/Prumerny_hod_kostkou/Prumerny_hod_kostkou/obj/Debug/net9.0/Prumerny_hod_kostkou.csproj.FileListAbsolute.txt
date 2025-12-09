@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Prumerny_hod_kostkou\Prumerny_hod_kostkou\bin\Debug\net9.0\Prumerny_hod_kostkou.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Prumerny_hod_kostkou\Prumerny_hod_kostkou\bin\Debug\net9.0\Prumerny_hod_kostkou.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Prumerny_hod_kostkou\Prumerny_hod_kostkou\bin\Debug\net9.0\Prumerny_hod_kostkou.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Prumerny_hod_kostkou\Prumerny_hod_kostkou\bin\Debug\net9.0\Prumerny_hod_kostkou.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Prumerny_hod_kostkou\Prumerny_hod_kostkou\bin\Debug\net9.0\Prumerny_hod_kostkou.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Prumerny_hod_kostkou\Prumerny_hod_kostkou\obj\Debug\net9.0\Prumerny_hod_kostkou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Prumerny_hod_kostkou\Prumerny_hod_kostkou\obj\Debug\net9.0\Prumerny_hod_kostkou.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Prumerny_hod_kostkou\Prumerny_hod_kostkou\obj\Debug\net9.0\Prumerny_hod_kostkou.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Prumerny_hod_kostkou\Prumerny_hod_kostkou\obj\Debug\net9.0\Prumerny_hod_kostkou.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Prumerny_hod_kostkou\Prumerny_hod_kostkou\obj\Debug\net9.0\Prumerny_hod_kostkou.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Prumerny_hod_kostkou\Prumerny_hod_kostkou\obj\Debug\net9.0\Prumerny_hod_kostkou.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Prumerny_hod_kostkou\Prumerny_hod_kostkou\obj\Debug\net9.0\refint\Prumerny_hod_kostkou.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Prumerny_hod_kostkou\Prumerny_hod_kostkou\obj\Debug\net9.0\Prumerny_hod_kostkou.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Prumerny_hod_kostkou\Prumerny_hod_kostkou\obj\Debug\net9.0\Prumerny_hod_kostkou.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.3 while\Prumerny_hod_kostkou\Prumerny_hod_kostkou\obj\Debug\net9.0\ref\Prumerny_hod_kostkou.dll

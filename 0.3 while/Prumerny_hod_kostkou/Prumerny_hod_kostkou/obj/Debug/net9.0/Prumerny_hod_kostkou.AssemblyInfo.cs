@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prumerny_hod_kostkou")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6c3a8aa54a17464872e0a05e5b99f26cad77070")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e0c31439279f1dc436286daaff8bbf3ef52a627")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prumerny_hod_kostkou")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prumerny_hod_kostkou")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

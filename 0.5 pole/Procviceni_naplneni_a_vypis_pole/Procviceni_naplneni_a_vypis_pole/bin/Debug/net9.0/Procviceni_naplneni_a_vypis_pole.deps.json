@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Procviceni_naplneni_a_vypis_pole/1.0.0": {
+        "runtime": {
+          "Procviceni_naplneni_a_vypis_pole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Procviceni_naplneni_a_vypis_pole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uvod_for_cyklus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26b863cba71c220513a6cbaefdf484a20c4417a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e0c31439279f1dc436286daaff8bbf3ef52a627")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uvod_for_cyklus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uvod_for_cyklus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
