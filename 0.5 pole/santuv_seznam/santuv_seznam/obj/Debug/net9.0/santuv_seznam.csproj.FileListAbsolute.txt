@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\santuv_seznam\santuv_seznam\bin\Debug\net9.0\santuv_seznam.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\santuv_seznam\santuv_seznam\bin\Debug\net9.0\santuv_seznam.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\santuv_seznam\santuv_seznam\bin\Debug\net9.0\santuv_seznam.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\santuv_seznam\santuv_seznam\bin\Debug\net9.0\santuv_seznam.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\santuv_seznam\santuv_seznam\bin\Debug\net9.0\santuv_seznam.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\santuv_seznam\santuv_seznam\obj\Debug\net9.0\santuv_seznam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\santuv_seznam\santuv_seznam\obj\Debug\net9.0\santuv_seznam.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\santuv_seznam\santuv_seznam\obj\Debug\net9.0\santuv_seznam.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\santuv_seznam\santuv_seznam\obj\Debug\net9.0\santuv_seznam.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\santuv_seznam\santuv_seznam\obj\Debug\net9.0\santuv_seznam.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\santuv_seznam\santuv_seznam\obj\Debug\net9.0\santuv_seznam.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\santuv_seznam\santuv_seznam\obj\Debug\net9.0\refint\santuv_seznam.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\santuv_seznam\santuv_seznam\obj\Debug\net9.0\santuv_seznam.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\santuv_seznam\santuv_seznam\obj\Debug\net9.0\santuv_seznam.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\santuv_seznam\santuv_seznam\obj\Debug\net9.0\ref\santuv_seznam.dll

@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\balicek_karet\balicek_karet\bin\Debug\net9.0\balicek_karet.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\balicek_karet\balicek_karet\bin\Debug\net9.0\balicek_karet.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\balicek_karet\balicek_karet\bin\Debug\net9.0\balicek_karet.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\balicek_karet\balicek_karet\bin\Debug\net9.0\balicek_karet.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\balicek_karet\balicek_karet\bin\Debug\net9.0\balicek_karet.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\balicek_karet\balicek_karet\obj\Debug\net9.0\balicek_karet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\balicek_karet\balicek_karet\obj\Debug\net9.0\balicek_karet.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\balicek_karet\balicek_karet\obj\Debug\net9.0\balicek_karet.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\balicek_karet\balicek_karet\obj\Debug\net9.0\balicek_karet.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\balicek_karet\balicek_karet\obj\Debug\net9.0\balicek_karet.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\balicek_karet\balicek_karet\obj\Debug\net9.0\balicek_karet.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\balicek_karet\balicek_karet\obj\Debug\net9.0\refint\balicek_karet.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\balicek_karet\balicek_karet\obj\Debug\net9.0\balicek_karet.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\balicek_karet\balicek_karet\obj\Debug\net9.0\balicek_karet.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\balicek_karet\balicek_karet\obj\Debug\net9.0\ref\balicek_karet.dll

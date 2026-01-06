@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\nejdelsi_cesta\nejdelsi_cesta\bin\Debug\net9.0\nejdelsi_cesta.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\nejdelsi_cesta\nejdelsi_cesta\bin\Debug\net9.0\nejdelsi_cesta.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\nejdelsi_cesta\nejdelsi_cesta\bin\Debug\net9.0\nejdelsi_cesta.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\nejdelsi_cesta\nejdelsi_cesta\bin\Debug\net9.0\nejdelsi_cesta.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\nejdelsi_cesta\nejdelsi_cesta\bin\Debug\net9.0\nejdelsi_cesta.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\nejdelsi_cesta\nejdelsi_cesta\obj\Debug\net9.0\nejdelsi_cesta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\nejdelsi_cesta\nejdelsi_cesta\obj\Debug\net9.0\nejdelsi_cesta.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\nejdelsi_cesta\nejdelsi_cesta\obj\Debug\net9.0\nejdelsi_cesta.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\nejdelsi_cesta\nejdelsi_cesta\obj\Debug\net9.0\nejdelsi_cesta.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\nejdelsi_cesta\nejdelsi_cesta\obj\Debug\net9.0\nejdelsi_cesta.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\nejdelsi_cesta\nejdelsi_cesta\obj\Debug\net9.0\nejdelsi_cesta.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\nejdelsi_cesta\nejdelsi_cesta\obj\Debug\net9.0\refint\nejdelsi_cesta.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\nejdelsi_cesta\nejdelsi_cesta\obj\Debug\net9.0\nejdelsi_cesta.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\nejdelsi_cesta\nejdelsi_cesta\obj\Debug\net9.0\nejdelsi_cesta.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\nejdelsi_cesta\nejdelsi_cesta\obj\Debug\net9.0\ref\nejdelsi_cesta.dll
