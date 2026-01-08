@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "slova_s_velkymi_pismeny/1.0.0": {
+        "runtime": {
+          "slova_s_velkymi_pismeny.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "slova_s_velkymi_pismeny/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

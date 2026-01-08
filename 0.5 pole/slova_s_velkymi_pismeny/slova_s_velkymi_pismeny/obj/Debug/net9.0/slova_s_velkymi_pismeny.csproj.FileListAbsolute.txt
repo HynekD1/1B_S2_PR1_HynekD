@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\slova_s_velkymi_pismeny\slova_s_velkymi_pismeny\bin\Debug\net9.0\slova_s_velkymi_pismeny.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\slova_s_velkymi_pismeny\slova_s_velkymi_pismeny\bin\Debug\net9.0\slova_s_velkymi_pismeny.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\slova_s_velkymi_pismeny\slova_s_velkymi_pismeny\bin\Debug\net9.0\slova_s_velkymi_pismeny.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\slova_s_velkymi_pismeny\slova_s_velkymi_pismeny\bin\Debug\net9.0\slova_s_velkymi_pismeny.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\slova_s_velkymi_pismeny\slova_s_velkymi_pismeny\bin\Debug\net9.0\slova_s_velkymi_pismeny.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\slova_s_velkymi_pismeny\slova_s_velkymi_pismeny\obj\Debug\net9.0\slova_s_velkymi_pismeny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\slova_s_velkymi_pismeny\slova_s_velkymi_pismeny\obj\Debug\net9.0\slova_s_velkymi_pismeny.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\slova_s_velkymi_pismeny\slova_s_velkymi_pismeny\obj\Debug\net9.0\slova_s_velkymi_pismeny.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\slova_s_velkymi_pismeny\slova_s_velkymi_pismeny\obj\Debug\net9.0\slova_s_velkymi_pismeny.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\slova_s_velkymi_pismeny\slova_s_velkymi_pismeny\obj\Debug\net9.0\slova_s_velkymi_pismeny.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\slova_s_velkymi_pismeny\slova_s_velkymi_pismeny\obj\Debug\net9.0\slova_s_velkymi_pismeny.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\slova_s_velkymi_pismeny\slova_s_velkymi_pismeny\obj\Debug\net9.0\refint\slova_s_velkymi_pismeny.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\slova_s_velkymi_pismeny\slova_s_velkymi_pismeny\obj\Debug\net9.0\slova_s_velkymi_pismeny.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\slova_s_velkymi_pismeny\slova_s_velkymi_pismeny\obj\Debug\net9.0\slova_s_velkymi_pismeny.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.5 pole\slova_s_velkymi_pismeny\slova_s_velkymi_pismeny\obj\Debug\net9.0\ref\slova_s_velkymi_pismeny.dll
