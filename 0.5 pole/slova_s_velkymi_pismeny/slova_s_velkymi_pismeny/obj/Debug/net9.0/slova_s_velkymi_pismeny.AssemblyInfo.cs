@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("slova_s_velkymi_pismeny")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+950a957671db5f4169fdec9ab72a87447a9e151f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5604844cf98bd2ece644e8ac804cce294649cd15")]
 [assembly: System.Reflection.AssemblyProductAttribute("slova_s_velkymi_pismeny")]
 [assembly: System.Reflection.AssemblyTitleAttribute("slova_s_velkymi_pismeny")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
