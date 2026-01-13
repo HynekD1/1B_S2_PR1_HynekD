@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "kdo_prijde/1.0.0": {
+        "runtime": {
+          "kdo_prijde.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kdo_prijde/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

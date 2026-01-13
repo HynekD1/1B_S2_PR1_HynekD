@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\Obvod_kruhu\Obvod_kruhu\bin\Debug\net9.0\Obvod_kruhu.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\Obvod_kruhu\Obvod_kruhu\bin\Debug\net9.0\Obvod_kruhu.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\Obvod_kruhu\Obvod_kruhu\bin\Debug\net9.0\Obvod_kruhu.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\Obvod_kruhu\Obvod_kruhu\bin\Debug\net9.0\Obvod_kruhu.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\Obvod_kruhu\Obvod_kruhu\bin\Debug\net9.0\Obvod_kruhu.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\Obvod_kruhu\Obvod_kruhu\obj\Debug\net9.0\Obvod_kruhu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\Obvod_kruhu\Obvod_kruhu\obj\Debug\net9.0\Obvod_kruhu.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\Obvod_kruhu\Obvod_kruhu\obj\Debug\net9.0\Obvod_kruhu.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\Obvod_kruhu\Obvod_kruhu\obj\Debug\net9.0\Obvod_kruhu.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\Obvod_kruhu\Obvod_kruhu\obj\Debug\net9.0\Obvod_kruhu.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\Obvod_kruhu\Obvod_kruhu\obj\Debug\net9.0\Obvod_kruhu.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\Obvod_kruhu\Obvod_kruhu\obj\Debug\net9.0\refint\Obvod_kruhu.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\Obvod_kruhu\Obvod_kruhu\obj\Debug\net9.0\Obvod_kruhu.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\Obvod_kruhu\Obvod_kruhu\obj\Debug\net9.0\Obvod_kruhu.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\Obvod_kruhu\Obvod_kruhu\obj\Debug\net9.0\ref\Obvod_kruhu.dll

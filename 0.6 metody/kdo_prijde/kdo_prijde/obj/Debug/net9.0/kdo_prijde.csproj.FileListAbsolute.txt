@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\kdo_prijde\kdo_prijde\bin\Debug\net9.0\kdo_prijde.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\kdo_prijde\kdo_prijde\bin\Debug\net9.0\kdo_prijde.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\kdo_prijde\kdo_prijde\bin\Debug\net9.0\kdo_prijde.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\kdo_prijde\kdo_prijde\bin\Debug\net9.0\kdo_prijde.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\kdo_prijde\kdo_prijde\bin\Debug\net9.0\kdo_prijde.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\kdo_prijde\kdo_prijde\obj\Debug\net9.0\kdo_prijde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\kdo_prijde\kdo_prijde\obj\Debug\net9.0\kdo_prijde.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\kdo_prijde\kdo_prijde\obj\Debug\net9.0\kdo_prijde.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\kdo_prijde\kdo_prijde\obj\Debug\net9.0\kdo_prijde.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\kdo_prijde\kdo_prijde\obj\Debug\net9.0\kdo_prijde.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\kdo_prijde\kdo_prijde\obj\Debug\net9.0\kdo_prijde.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\kdo_prijde\kdo_prijde\obj\Debug\net9.0\refint\kdo_prijde.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\kdo_prijde\kdo_prijde\obj\Debug\net9.0\kdo_prijde.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\kdo_prijde\kdo_prijde\obj\Debug\net9.0\kdo_prijde.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\kdo_prijde\kdo_prijde\obj\Debug\net9.0\ref\kdo_prijde.dll

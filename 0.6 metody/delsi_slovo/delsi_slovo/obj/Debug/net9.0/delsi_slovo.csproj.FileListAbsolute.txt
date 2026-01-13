@@ -1,0 +1,15 @@
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\delsi_slovo\delsi_slovo\bin\Debug\net9.0\delsi_slovo.exe
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\delsi_slovo\delsi_slovo\bin\Debug\net9.0\delsi_slovo.deps.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\delsi_slovo\delsi_slovo\bin\Debug\net9.0\delsi_slovo.runtimeconfig.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\delsi_slovo\delsi_slovo\bin\Debug\net9.0\delsi_slovo.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\delsi_slovo\delsi_slovo\bin\Debug\net9.0\delsi_slovo.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\delsi_slovo\delsi_slovo\obj\Debug\net9.0\delsi_slovo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\delsi_slovo\delsi_slovo\obj\Debug\net9.0\delsi_slovo.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\delsi_slovo\delsi_slovo\obj\Debug\net9.0\delsi_slovo.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\delsi_slovo\delsi_slovo\obj\Debug\net9.0\delsi_slovo.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\delsi_slovo\delsi_slovo\obj\Debug\net9.0\delsi_slovo.sourcelink.json
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\delsi_slovo\delsi_slovo\obj\Debug\net9.0\delsi_slovo.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\delsi_slovo\delsi_slovo\obj\Debug\net9.0\refint\delsi_slovo.dll
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\delsi_slovo\delsi_slovo\obj\Debug\net9.0\delsi_slovo.pdb
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\delsi_slovo\delsi_slovo\obj\Debug\net9.0\delsi_slovo.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\delsi_slovo\delsi_slovo\obj\Debug\net9.0\ref\delsi_slovo.dll
