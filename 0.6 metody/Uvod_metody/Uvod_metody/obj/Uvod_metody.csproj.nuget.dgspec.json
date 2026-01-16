@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dominik\\OneDrive - DELTA - SŠIE, s.r.o\\Dokumenty\\Studio visual\\PR1_1B_2025.2026\\0.6 metody\\Uvod_metody\\Uvod_metody\\Uvod_metody.csproj": {}
+    "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.6 metody\\Uvod_metody\\Uvod_metody\\Uvod_metody.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dominik\\OneDrive - DELTA - SŠIE, s.r.o\\Dokumenty\\Studio visual\\PR1_1B_2025.2026\\0.6 metody\\Uvod_metody\\Uvod_metody\\Uvod_metody.csproj": {
+    "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.6 metody\\Uvod_metody\\Uvod_metody\\Uvod_metody.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dominik\\OneDrive - DELTA - SŠIE, s.r.o\\Dokumenty\\Studio visual\\PR1_1B_2025.2026\\0.6 metody\\Uvod_metody\\Uvod_metody\\Uvod_metody.csproj",
+        "projectUniqueName": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.6 metody\\Uvod_metody\\Uvod_metody\\Uvod_metody.csproj",
         "projectName": "Uvod_metody",
-        "projectPath": "C:\\Users\\Dominik\\OneDrive - DELTA - SŠIE, s.r.o\\Dokumenty\\Studio visual\\PR1_1B_2025.2026\\0.6 metody\\Uvod_metody\\Uvod_metody\\Uvod_metody.csproj",
+        "projectPath": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.6 metody\\Uvod_metody\\Uvod_metody\\Uvod_metody.csproj",
         "packagesPath": "C:\\Users\\Dominik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dominik\\OneDrive - DELTA - SŠIE, s.r.o\\Dokumenty\\Studio visual\\PR1_1B_2025.2026\\0.6 metody\\Uvod_metody\\Uvod_metody\\obj\\",
+        "outputPath": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.6 metody\\Uvod_metody\\Uvod_metody\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.309/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

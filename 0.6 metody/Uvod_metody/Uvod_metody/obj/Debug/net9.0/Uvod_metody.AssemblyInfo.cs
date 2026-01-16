@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uvod_metody")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5604844cf98bd2ece644e8ac804cce294649cd15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fc19d5de15da327017ec026c25839505990d868")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uvod_metody")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uvod_metody")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

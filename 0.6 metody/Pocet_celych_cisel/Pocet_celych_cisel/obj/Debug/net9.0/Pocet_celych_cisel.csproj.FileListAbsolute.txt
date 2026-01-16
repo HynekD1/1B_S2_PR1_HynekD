@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pocet_celych_cisel\Pocet_celych_cisel\bin\Debug\net9.0\Pocet_celych_cisel.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pocet_celych_cisel\Pocet_celych_cisel\bin\Debug\net9.0\Pocet_celych_cisel.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pocet_celych_cisel\Pocet_celych_cisel\bin\Debug\net9.0\Pocet_celych_cisel.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pocet_celych_cisel\Pocet_celych_cisel\bin\Debug\net9.0\Pocet_celych_cisel.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pocet_celych_cisel\Pocet_celych_cisel\bin\Debug\net9.0\Pocet_celych_cisel.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pocet_celych_cisel\Pocet_celych_cisel\obj\Debug\net9.0\Pocet_celych_cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pocet_celych_cisel\Pocet_celych_cisel\obj\Debug\net9.0\Pocet_celych_cisel.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pocet_celych_cisel\Pocet_celych_cisel\obj\Debug\net9.0\Pocet_celych_cisel.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pocet_celych_cisel\Pocet_celych_cisel\obj\Debug\net9.0\Pocet_celych_cisel.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pocet_celych_cisel\Pocet_celych_cisel\obj\Debug\net9.0\Pocet_celych_cisel.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pocet_celych_cisel\Pocet_celych_cisel\obj\Debug\net9.0\Pocet_celych_cisel.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pocet_celych_cisel\Pocet_celych_cisel\obj\Debug\net9.0\refint\Pocet_celych_cisel.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pocet_celych_cisel\Pocet_celych_cisel\obj\Debug\net9.0\Pocet_celych_cisel.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pocet_celych_cisel\Pocet_celych_cisel\obj\Debug\net9.0\Pocet_celych_cisel.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pocet_celych_cisel\Pocet_celych_cisel\obj\Debug\net9.0\ref\Pocet_celych_cisel.dll

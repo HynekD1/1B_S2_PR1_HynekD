@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dominik\\OneDrive - DELTA - S\u0160IE, s.r.o\\Dokumenty\\Studio visual\\PR1_1B_2025.2026\\0.6 metody\\Uvod_metody\\",
+  "WorkspaceRootPath": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.6 metody\\Uvod_metody\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE7A2B5F-85A7-4E50-8171-16FEE6E91BE9}|Uvod_metody\\Uvod_metody.csproj|c:\\users\\dominik\\onedrive - delta - s\u0161ie, s.r.o\\dokumenty\\studio visual\\pr1_1b_2025.2026\\0.6 metody\\uvod_metody\\uvod_metody\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE7A2B5F-85A7-4E50-8171-16FEE6E91BE9}|Uvod_metody\\Uvod_metody.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.6 metody\\uvod_metody\\uvod_metody\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE7A2B5F-85A7-4E50-8171-16FEE6E91BE9}|Uvod_metody\\Uvod_metody.csproj|solutionrelative:uvod_metody\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,12 +25,16 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dominik\\OneDrive - DELTA - S\u0160IE, s.r.o\\Dokumenty\\Studio visual\\PR1_1B_2025.2026\\0.6 metody\\Uvod_metody\\Uvod_metody\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.6 metody\\Uvod_metody\\Uvod_metody\\Program.cs",
               "RelativeDocumentMoniker": "Uvod_metody\\Program.cs",
-              "ToolTip": "C:\\Users\\Dominik\\OneDrive - DELTA - S\u0160IE, s.r.o\\Dokumenty\\Studio visual\\PR1_1B_2025.2026\\0.6 metody\\Uvod_metody\\Uvod_metody\\Program.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.6 metody\\Uvod_metody\\Uvod_metody\\Program.cs",
               "RelativeToolTip": "Uvod_metody\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

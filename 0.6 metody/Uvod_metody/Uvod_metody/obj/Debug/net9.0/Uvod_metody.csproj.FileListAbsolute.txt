@@ -13,3 +13,18 @@ C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_
 C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\Uvod_metody\Uvod_metody\obj\Debug\net9.0\Uvod_metody.pdb
 C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\Uvod_metody\Uvod_metody\obj\Debug\net9.0\Uvod_metody.genruntimeconfig.cache
 C:\Users\Dominik\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Studio visual\PR1_1B_2025.2026\0.6 metody\Uvod_metody\Uvod_metody\obj\Debug\net9.0\ref\Uvod_metody.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Uvod_metody\Uvod_metody\bin\Debug\net9.0\Uvod_metody.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Uvod_metody\Uvod_metody\bin\Debug\net9.0\Uvod_metody.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Uvod_metody\Uvod_metody\bin\Debug\net9.0\Uvod_metody.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Uvod_metody\Uvod_metody\bin\Debug\net9.0\Uvod_metody.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Uvod_metody\Uvod_metody\bin\Debug\net9.0\Uvod_metody.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Uvod_metody\Uvod_metody\obj\Debug\net9.0\Uvod_metody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Uvod_metody\Uvod_metody\obj\Debug\net9.0\Uvod_metody.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Uvod_metody\Uvod_metody\obj\Debug\net9.0\Uvod_metody.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Uvod_metody\Uvod_metody\obj\Debug\net9.0\Uvod_metody.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Uvod_metody\Uvod_metody\obj\Debug\net9.0\Uvod_metody.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Uvod_metody\Uvod_metody\obj\Debug\net9.0\Uvod_metody.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Uvod_metody\Uvod_metody\obj\Debug\net9.0\refint\Uvod_metody.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Uvod_metody\Uvod_metody\obj\Debug\net9.0\Uvod_metody.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Uvod_metody\Uvod_metody\obj\Debug\net9.0\Uvod_metody.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Uvod_metody\Uvod_metody\obj\Debug\net9.0\ref\Uvod_metody.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("delsi_slovo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c53521586090e6396f8a1b5ac995cbf24104ff8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fc19d5de15da327017ec026c25839505990d868")]
 [assembly: System.Reflection.AssemblyProductAttribute("delsi_slovo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("delsi_slovo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
