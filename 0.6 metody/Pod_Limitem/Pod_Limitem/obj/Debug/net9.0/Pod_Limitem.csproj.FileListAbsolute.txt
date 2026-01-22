@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pod_Limitem\Pod_Limitem\bin\Debug\net9.0\Pod_Limitem.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pod_Limitem\Pod_Limitem\bin\Debug\net9.0\Pod_Limitem.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pod_Limitem\Pod_Limitem\bin\Debug\net9.0\Pod_Limitem.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pod_Limitem\Pod_Limitem\bin\Debug\net9.0\Pod_Limitem.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pod_Limitem\Pod_Limitem\bin\Debug\net9.0\Pod_Limitem.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pod_Limitem\Pod_Limitem\obj\Debug\net9.0\Pod_Limitem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pod_Limitem\Pod_Limitem\obj\Debug\net9.0\Pod_Limitem.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pod_Limitem\Pod_Limitem\obj\Debug\net9.0\Pod_Limitem.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pod_Limitem\Pod_Limitem\obj\Debug\net9.0\Pod_Limitem.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pod_Limitem\Pod_Limitem\obj\Debug\net9.0\Pod_Limitem.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pod_Limitem\Pod_Limitem\obj\Debug\net9.0\Pod_Limitem.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pod_Limitem\Pod_Limitem\obj\Debug\net9.0\refint\Pod_Limitem.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pod_Limitem\Pod_Limitem\obj\Debug\net9.0\Pod_Limitem.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pod_Limitem\Pod_Limitem\obj\Debug\net9.0\Pod_Limitem.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Pod_Limitem\Pod_Limitem\obj\Debug\net9.0\ref\Pod_Limitem.dll

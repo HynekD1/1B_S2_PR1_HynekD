@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_RPG\Zkouska_RPG\bin\Debug\net9.0\Zkouska_RPG.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_RPG\Zkouska_RPG\bin\Debug\net9.0\Zkouska_RPG.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_RPG\Zkouska_RPG\bin\Debug\net9.0\Zkouska_RPG.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_RPG\Zkouska_RPG\bin\Debug\net9.0\Zkouska_RPG.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_RPG\Zkouska_RPG\bin\Debug\net9.0\Zkouska_RPG.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_RPG\Zkouska_RPG\obj\Debug\net9.0\Zkouska_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_RPG\Zkouska_RPG\obj\Debug\net9.0\Zkouska_RPG.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_RPG\Zkouska_RPG\obj\Debug\net9.0\Zkouska_RPG.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_RPG\Zkouska_RPG\obj\Debug\net9.0\Zkouska_RPG.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_RPG\Zkouska_RPG\obj\Debug\net9.0\Zkouska_RPG.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_RPG\Zkouska_RPG\obj\Debug\net9.0\Zkouska_RPG.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_RPG\Zkouska_RPG\obj\Debug\net9.0\refint\Zkouska_RPG.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_RPG\Zkouska_RPG\obj\Debug\net9.0\Zkouska_RPG.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_RPG\Zkouska_RPG\obj\Debug\net9.0\Zkouska_RPG.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_RPG\Zkouska_RPG\obj\Debug\net9.0\ref\Zkouska_RPG.dll

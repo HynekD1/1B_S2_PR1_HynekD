@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Pod_Limitem/1.0.0": {
+        "runtime": {
+          "Pod_Limitem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pod_Limitem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

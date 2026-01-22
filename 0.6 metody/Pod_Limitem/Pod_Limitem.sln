@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pod_Limitem", "Pod_Limitem\Pod_Limitem.csproj", "{43B21F07-ED39-477A-AA04-FF28AA97B62A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43B21F07-ED39-477A-AA04-FF28AA97B62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B21F07-ED39-477A-AA04-FF28AA97B62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B21F07-ED39-477A-AA04-FF28AA97B62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B21F07-ED39-477A-AA04-FF28AA97B62A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32D70C5C-80E5-4ECD-AEE2-CA50F4EF068D}
+	EndGlobalSection
+EndGlobal
