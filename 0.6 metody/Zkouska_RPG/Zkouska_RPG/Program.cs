@@ -34,7 +34,13 @@
                     staty = felcar(staty);
                 else if (volba == 3)
                     staty = bestie(staty);
-
+                
+                if (volba == 3 && staty[0] > 0)
+                {
+                    Console.WriteLine();
+                    Console.WriteLine("Zabil jsi bestii");
+                    Console.WriteLine();
+                }
                 
                 
                 

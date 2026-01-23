@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zkouska_RPG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22bb184a2e5fe30cba4322e45d44a37c5713c589")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ba05db404034e8bf088859e427579e5777b9711")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zkouska_RPG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zkouska_RPG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
