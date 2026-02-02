@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Boj-armad2.0/1.0.0": {
+        "runtime": {
+          "Boj-armad2.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Boj-armad2.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

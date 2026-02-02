@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_boj_armad\Zkouska_boj_armad\bin\Debug\net9.0\Zkouska_boj_armad.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_boj_armad\Zkouska_boj_armad\bin\Debug\net9.0\Zkouska_boj_armad.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_boj_armad\Zkouska_boj_armad\bin\Debug\net9.0\Zkouska_boj_armad.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_boj_armad\Zkouska_boj_armad\bin\Debug\net9.0\Zkouska_boj_armad.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_boj_armad\Zkouska_boj_armad\bin\Debug\net9.0\Zkouska_boj_armad.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_boj_armad\Zkouska_boj_armad\obj\Debug\net9.0\Zkouska_boj_armad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_boj_armad\Zkouska_boj_armad\obj\Debug\net9.0\Zkouska_boj_armad.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_boj_armad\Zkouska_boj_armad\obj\Debug\net9.0\Zkouska_boj_armad.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_boj_armad\Zkouska_boj_armad\obj\Debug\net9.0\Zkouska_boj_armad.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_boj_armad\Zkouska_boj_armad\obj\Debug\net9.0\Zkouska_boj_armad.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_boj_armad\Zkouska_boj_armad\obj\Debug\net9.0\Zkouska_boj_armad.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_boj_armad\Zkouska_boj_armad\obj\Debug\net9.0\refint\Zkouska_boj_armad.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_boj_armad\Zkouska_boj_armad\obj\Debug\net9.0\Zkouska_boj_armad.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_boj_armad\Zkouska_boj_armad\obj\Debug\net9.0\Zkouska_boj_armad.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Zkouska_boj_armad\Zkouska_boj_armad\obj\Debug\net9.0\ref\Zkouska_boj_armad.dll

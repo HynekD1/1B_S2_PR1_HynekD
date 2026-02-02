@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Boj-armad2.0\Boj-armad2.0\obj\Debug\net9.0\Boj-armad2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Boj-armad2.0\Boj-armad2.0\obj\Debug\net9.0\Boj-armad2.0.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Boj-armad2.0\Boj-armad2.0\obj\Debug\net9.0\Boj-armad2.0.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Boj-armad2.0\Boj-armad2.0\obj\Debug\net9.0\Boj-armad2.0.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Boj-armad2.0\Boj-armad2.0\obj\Debug\net9.0\Boj-armad2.0.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Boj-armad2.0\Boj-armad2.0\bin\Debug\net9.0\Boj-armad2.0.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Boj-armad2.0\Boj-armad2.0\bin\Debug\net9.0\Boj-armad2.0.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Boj-armad2.0\Boj-armad2.0\bin\Debug\net9.0\Boj-armad2.0.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Boj-armad2.0\Boj-armad2.0\bin\Debug\net9.0\Boj-armad2.0.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Boj-armad2.0\Boj-armad2.0\bin\Debug\net9.0\Boj-armad2.0.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Boj-armad2.0\Boj-armad2.0\obj\Debug\net9.0\Boj-armad2.0.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Boj-armad2.0\Boj-armad2.0\obj\Debug\net9.0\refint\Boj-armad2.0.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Boj-armad2.0\Boj-armad2.0\obj\Debug\net9.0\Boj-armad2.0.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Boj-armad2.0\Boj-armad2.0\obj\Debug\net9.0\Boj-armad2.0.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Boj-armad2.0\Boj-armad2.0\obj\Debug\net9.0\ref\Boj-armad2.0.dll
