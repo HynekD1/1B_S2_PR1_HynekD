@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Ruska-ruleta\Ruska-ruleta\bin\Debug\net9.0\Ruska-ruleta.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Ruska-ruleta\Ruska-ruleta\bin\Debug\net9.0\Ruska-ruleta.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Ruska-ruleta\Ruska-ruleta\bin\Debug\net9.0\Ruska-ruleta.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Ruska-ruleta\Ruska-ruleta\bin\Debug\net9.0\Ruska-ruleta.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Ruska-ruleta\Ruska-ruleta\bin\Debug\net9.0\Ruska-ruleta.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Ruska-ruleta\Ruska-ruleta\obj\Debug\net9.0\Ruska-ruleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Ruska-ruleta\Ruska-ruleta\obj\Debug\net9.0\Ruska-ruleta.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Ruska-ruleta\Ruska-ruleta\obj\Debug\net9.0\Ruska-ruleta.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Ruska-ruleta\Ruska-ruleta\obj\Debug\net9.0\Ruska-ruleta.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Ruska-ruleta\Ruska-ruleta\obj\Debug\net9.0\Ruska-ruleta.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Ruska-ruleta\Ruska-ruleta\obj\Debug\net9.0\Ruska-ruleta.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Ruska-ruleta\Ruska-ruleta\obj\Debug\net9.0\refint\Ruska-ruleta.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Ruska-ruleta\Ruska-ruleta\obj\Debug\net9.0\Ruska-ruleta.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Ruska-ruleta\Ruska-ruleta\obj\Debug\net9.0\Ruska-ruleta.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Ruska-ruleta\Ruska-ruleta\obj\Debug\net9.0\ref\Ruska-ruleta.dll

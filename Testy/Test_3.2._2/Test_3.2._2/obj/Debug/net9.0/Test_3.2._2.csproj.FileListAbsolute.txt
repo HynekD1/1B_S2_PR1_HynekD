@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Testy\Test_3.2._2\Test_3.2._2\bin\Debug\net9.0\Test_3.2._2.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Testy\Test_3.2._2\Test_3.2._2\bin\Debug\net9.0\Test_3.2._2.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Testy\Test_3.2._2\Test_3.2._2\bin\Debug\net9.0\Test_3.2._2.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Testy\Test_3.2._2\Test_3.2._2\bin\Debug\net9.0\Test_3.2._2.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Testy\Test_3.2._2\Test_3.2._2\bin\Debug\net9.0\Test_3.2._2.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Testy\Test_3.2._2\Test_3.2._2\obj\Debug\net9.0\Test_3.2._2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Testy\Test_3.2._2\Test_3.2._2\obj\Debug\net9.0\Test_3.2._2.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Testy\Test_3.2._2\Test_3.2._2\obj\Debug\net9.0\Test_3.2._2.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Testy\Test_3.2._2\Test_3.2._2\obj\Debug\net9.0\Test_3.2._2.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Testy\Test_3.2._2\Test_3.2._2\obj\Debug\net9.0\Test_3.2._2.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Testy\Test_3.2._2\Test_3.2._2\obj\Debug\net9.0\Test_3.2._2.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Testy\Test_3.2._2\Test_3.2._2\obj\Debug\net9.0\refint\Test_3.2._2.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Testy\Test_3.2._2\Test_3.2._2\obj\Debug\net9.0\Test_3.2._2.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Testy\Test_3.2._2\Test_3.2._2\obj\Debug\net9.0\Test_3.2._2.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Testy\Test_3.2._2\Test_3.2._2\obj\Debug\net9.0\ref\Test_3.2._2.dll
