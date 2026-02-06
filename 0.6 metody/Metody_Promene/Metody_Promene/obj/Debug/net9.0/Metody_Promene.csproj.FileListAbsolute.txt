@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Metody_Promene\Metody_Promene\bin\Debug\net9.0\Metody_Promene.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Metody_Promene\Metody_Promene\bin\Debug\net9.0\Metody_Promene.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Metody_Promene\Metody_Promene\bin\Debug\net9.0\Metody_Promene.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Metody_Promene\Metody_Promene\bin\Debug\net9.0\Metody_Promene.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Metody_Promene\Metody_Promene\bin\Debug\net9.0\Metody_Promene.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Metody_Promene\Metody_Promene\obj\Debug\net9.0\Metody_Promene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Metody_Promene\Metody_Promene\obj\Debug\net9.0\Metody_Promene.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Metody_Promene\Metody_Promene\obj\Debug\net9.0\Metody_Promene.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Metody_Promene\Metody_Promene\obj\Debug\net9.0\Metody_Promene.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Metody_Promene\Metody_Promene\obj\Debug\net9.0\Metody_Promene.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Metody_Promene\Metody_Promene\obj\Debug\net9.0\Metody_Promene.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Metody_Promene\Metody_Promene\obj\Debug\net9.0\refint\Metody_Promene.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Metody_Promene\Metody_Promene\obj\Debug\net9.0\Metody_Promene.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Metody_Promene\Metody_Promene\obj\Debug\net9.0\Metody_Promene.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.6 metody\Metody_Promene\Metody_Promene\obj\Debug\net9.0\ref\Metody_Promene.dll
