@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste_Marek_Zvolsky\Bludiste_Marek_Zvolsky\bin\Debug\net9.0\Bludiste_Marek_Zvolsky.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste_Marek_Zvolsky\Bludiste_Marek_Zvolsky\bin\Debug\net9.0\Bludiste_Marek_Zvolsky.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste_Marek_Zvolsky\Bludiste_Marek_Zvolsky\bin\Debug\net9.0\Bludiste_Marek_Zvolsky.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste_Marek_Zvolsky\Bludiste_Marek_Zvolsky\bin\Debug\net9.0\Bludiste_Marek_Zvolsky.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste_Marek_Zvolsky\Bludiste_Marek_Zvolsky\bin\Debug\net9.0\Bludiste_Marek_Zvolsky.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste_Marek_Zvolsky\Bludiste_Marek_Zvolsky\obj\Debug\net9.0\Bludiste_Marek_Zvolsky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste_Marek_Zvolsky\Bludiste_Marek_Zvolsky\obj\Debug\net9.0\Bludiste_Marek_Zvolsky.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste_Marek_Zvolsky\Bludiste_Marek_Zvolsky\obj\Debug\net9.0\Bludiste_Marek_Zvolsky.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste_Marek_Zvolsky\Bludiste_Marek_Zvolsky\obj\Debug\net9.0\Bludiste_Marek_Zvolsky.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste_Marek_Zvolsky\Bludiste_Marek_Zvolsky\obj\Debug\net9.0\Bludiste_Marek_Zvolsky.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste_Marek_Zvolsky\Bludiste_Marek_Zvolsky\obj\Debug\net9.0\Bludiste_Marek_Zvolsky.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste_Marek_Zvolsky\Bludiste_Marek_Zvolsky\obj\Debug\net9.0\refint\Bludiste_Marek_Zvolsky.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste_Marek_Zvolsky\Bludiste_Marek_Zvolsky\obj\Debug\net9.0\Bludiste_Marek_Zvolsky.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste_Marek_Zvolsky\Bludiste_Marek_Zvolsky\obj\Debug\net9.0\Bludiste_Marek_Zvolsky.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste_Marek_Zvolsky\Bludiste_Marek_Zvolsky\obj\Debug\net9.0\ref\Bludiste_Marek_Zvolsky.dll

@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Hra_lodě\Hra_lodě\bin\Debug\net9.0\Hra_lodě.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Hra_lodě\Hra_lodě\bin\Debug\net9.0\Hra_lodě.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Hra_lodě\Hra_lodě\bin\Debug\net9.0\Hra_lodě.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Hra_lodě\Hra_lodě\bin\Debug\net9.0\Hra_lodě.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Hra_lodě\Hra_lodě\bin\Debug\net9.0\Hra_lodě.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Hra_lodě\Hra_lodě\obj\Debug\net9.0\Hra_lodě.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Hra_lodě\Hra_lodě\obj\Debug\net9.0\Hra_lodě.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Hra_lodě\Hra_lodě\obj\Debug\net9.0\Hra_lodě.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Hra_lodě\Hra_lodě\obj\Debug\net9.0\Hra_lodě.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Hra_lodě\Hra_lodě\obj\Debug\net9.0\Hra_lodě.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Hra_lodě\Hra_lodě\obj\Debug\net9.0\Hra_lodě.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Hra_lodě\Hra_lodě\obj\Debug\net9.0\refint\Hra_lodě.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Hra_lodě\Hra_lodě\obj\Debug\net9.0\Hra_lodě.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Hra_lodě\Hra_lodě\obj\Debug\net9.0\Hra_lodě.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Hra_lodě\Hra_lodě\obj\Debug\net9.0\ref\Hra_lodě.dll

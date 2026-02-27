@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste\Bludiste\bin\Debug\net9.0\Bludiste.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste\Bludiste\bin\Debug\net9.0\Bludiste.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste\Bludiste\bin\Debug\net9.0\Bludiste.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste\Bludiste\bin\Debug\net9.0\Bludiste.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste\Bludiste\bin\Debug\net9.0\Bludiste.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste\Bludiste\obj\Debug\net9.0\Bludiste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste\Bludiste\obj\Debug\net9.0\Bludiste.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste\Bludiste\obj\Debug\net9.0\Bludiste.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste\Bludiste\obj\Debug\net9.0\Bludiste.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste\Bludiste\obj\Debug\net9.0\Bludiste.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste\Bludiste\obj\Debug\net9.0\Bludiste.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste\Bludiste\obj\Debug\net9.0\refint\Bludiste.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste\Bludiste\obj\Debug\net9.0\Bludiste.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste\Bludiste\obj\Debug\net9.0\Bludiste.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Bludiste\Bludiste\obj\Debug\net9.0\ref\Bludiste.dll

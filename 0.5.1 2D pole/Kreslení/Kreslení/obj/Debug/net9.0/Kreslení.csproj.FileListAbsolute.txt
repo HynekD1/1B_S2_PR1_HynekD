@@ -1,0 +1,5 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.5.1 2D pole\Kreslení\Kreslení\obj\Debug\net9.0\Kreslení.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.5.1 2D pole\Kreslení\Kreslení\obj\Debug\net9.0\Kreslení.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.5.1 2D pole\Kreslení\Kreslení\obj\Debug\net9.0\Kreslení.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.5.1 2D pole\Kreslení\Kreslení\obj\Debug\net9.0\Kreslení.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.5.1 2D pole\Kreslení\Kreslení\obj\Debug\net9.0\Kreslení.sourcelink.json

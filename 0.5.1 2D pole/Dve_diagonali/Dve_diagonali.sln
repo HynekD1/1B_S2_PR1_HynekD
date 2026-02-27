@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dve_diagonali", "Dve_diagonali\Dve_diagonali.csproj", "{DCCDD415-252F-4EEF-B7FE-110F9C42AAC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCCDD415-252F-4EEF-B7FE-110F9C42AAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCDD415-252F-4EEF-B7FE-110F9C42AAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCDD415-252F-4EEF-B7FE-110F9C42AAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCDD415-252F-4EEF-B7FE-110F9C42AAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {106DFEDF-1B6B-4843-B495-E066543A0C70}
+	EndGlobalSection
+EndGlobal
