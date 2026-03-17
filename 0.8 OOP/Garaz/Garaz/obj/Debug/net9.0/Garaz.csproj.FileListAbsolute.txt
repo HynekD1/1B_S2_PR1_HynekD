@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Garaz\Garaz\bin\Debug\net9.0\Garaz.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Garaz\Garaz\bin\Debug\net9.0\Garaz.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Garaz\Garaz\bin\Debug\net9.0\Garaz.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Garaz\Garaz\bin\Debug\net9.0\Garaz.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Garaz\Garaz\bin\Debug\net9.0\Garaz.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Garaz\Garaz\obj\Debug\net9.0\Garaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Garaz\Garaz\obj\Debug\net9.0\Garaz.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Garaz\Garaz\obj\Debug\net9.0\Garaz.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Garaz\Garaz\obj\Debug\net9.0\Garaz.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Garaz\Garaz\obj\Debug\net9.0\Garaz.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Garaz\Garaz\obj\Debug\net9.0\Garaz.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Garaz\Garaz\obj\Debug\net9.0\refint\Garaz.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Garaz\Garaz\obj\Debug\net9.0\Garaz.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Garaz\Garaz\obj\Debug\net9.0\Garaz.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Garaz\Garaz\obj\Debug\net9.0\ref\Garaz.dll

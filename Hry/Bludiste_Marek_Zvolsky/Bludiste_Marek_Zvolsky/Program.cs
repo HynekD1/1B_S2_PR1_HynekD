@@ -7,126 +7,126 @@ namespace bludiste
 
         static void Main(string[] args)
         {
-            //pevně zadané bludiště 
+            //mapa
             string[,] bludiste =
-            { {"P", "#", "#", "#", "#", "#", "#", "#"},
-            {"V", "V", "V", "V", "V", "#", "X", "#"},
-            {"#", "#", "V", "#", "V", "#", "V", "#"},
-            {"#", "#", "#", "V", "V", "#", "V", "#"},
-            {"#", "#", "V", "V", "V", "V", "V", "#"},
-            {"#", "V", "V", "#", "#", "#", "V", "#"},
-            {"#", "#", "V", "V", "V", "#", "V", "#"},
-            {"#", "#", "#", "#", "#", "#", "#", "#"}
+            {
+                {"P", "#", "#", "#", "#", "#", "#", "#"},
+                {"V", "V", "V", "V", "V", "#", "X", "#"},
+                {"#", "#", "V", "#", "V", "#", "V", "#"},
+                {"#", "#", "#", "V", "V", "#", "V", "#"},
+                {"#", "#", "V", "V", "V", "V", "V", "#"},
+                {"#", "V", "V", "#", "#", "#", "V", "#"},
+                {"#", "#", "V", "V", "V", "#", "V", "#"},
+                {"#", "#", "#", "#", "#", "#", "#", "#"}
             };
 
-            VypisMapy(GrafikaMapy(bludiste));
-
+            PohybHrace(bludiste);
         }
 
-        //metoda pro pohyb
+        //metoda na pohyb
         static void PohybHrace(string[,] mapa)
         {
+            bool konec = false;
 
-        }
-
-        //metoda pro grafický design
-        static string[,] GrafikaMapy(string[,] mapa)
-        {
-            VypisMapy(mapa);
-            string policko_pred = "";
-            string policko = "P";//Výpis kam chce hráč jít
-            Console.WriteLine("Kam chceš jít??");
-            Console.WriteLine("nahoru = W\ndolu = S\ndoleva = A\ndoprava = D");
-            string hrac = "";
-            hrac = Console.ReadLine();
-            for (int i = 0; i < mapa.GetLength(0); i++)
+            while (!konec)
             {
-                for (int j = 0; j < mapa.GetLength(1); j++)
-                {
-                    if (hrac == "W")
-                    {
+                Console.Clear();
+                VypisMapy(mapa);
 
-                        policko_pred = mapa[i - 1, j];
+                Console.WriteLine("Kam chceš jít?");
+                Console.WriteLine("W = nahoru | S = dolu | A = doleva | D = doprava");
 
-                    }
-                    else if (hrac == "S")
-                    {
+                string vstup = Console.ReadLine().ToUpper();
 
-                        policko_pred = mapa[i + 1, j];
-                    }
-                    else if (hrac == "A")
-                    {
+                int hracX = 0;
+                int hracY = 0;
 
-                        policko_pred = mapa[i, j - 1];
-                    }
-                    else if (hrac == "D")
-                    {
-
-                        policko_pred = mapa[i, j + 1];
-                    }
-
-                }
-            }
-
-            do
-            {
-                //cyklus pro projití mapou
+                // Najdeme hráče
                 for (int i = 0; i < mapa.GetLength(0); i++)
                 {
                     for (int j = 0; j < mapa.GetLength(1); j++)
                     {
-                        if (mapa[i, j] == policko && policko_pred == "V")
+                        if (mapa[i, j] == "P")
                         {
-                            if (hrac == "W")
-                            {
-                                mapa[i, j] = "V";
-                                mapa[i - 1, j] = "P";
-
-                            }
-                            else if (hrac == "S")
-                            {
-                                mapa[i, j] = "V";
-                                mapa[i + 1, j] = "P";
-                            }
-                            else if (hrac == "A")
-                            {
-                                mapa[i, j] = "V";
-                                mapa[i, j - 1] = "P";
-                            }
-                            else if (hrac == "D")
-                            {
-                                mapa[i, j] = "V";
-                                mapa[i, j + 1] = "P";
-                            }
-                            else
-                            {
-                                Console.WriteLine("Špatný vstup");
-                            }
+                            hracX = i;
+                            hracY = j;
                         }
-                        else
-                        {
-                            Console.WriteLine("TAM NEMŮŽEŠ!!!!");
-                        }
-
                     }
                 }
-            } while (policko_pred != "X");
 
+                int novyX = hracX;
+                int novyY = hracY;
 
-            return mapa;
+                // Směr pohybu
+                if (vstup == "W") novyX--;
+                else if (vstup == "S") novyX++;
+                else if (vstup == "A") novyY--;
+                else if (vstup == "D") novyY++;
+                else
+                {
+                    Console.WriteLine("Neplatný vstup!");
+                    Console.ReadKey();
+                    continue;
+                }
+
+                // Kontrola hranic
+                if (novyX < 0 || novyX >= mapa.GetLength(0) ||
+                    novyY < 0 || novyY >= mapa.GetLength(1))
+                {
+                    Console.WriteLine("TAM NEMŮŽEŠ!");
+                    Console.ReadKey();
+                    continue;
+                }
+
+                // Kontrola pole
+                if (mapa[novyX, novyY] == "V")
+                {
+                    mapa[hracX, hracY] = "V";
+                    mapa[novyX, novyY] = "P";
+                }
+                else if (mapa[novyX, novyY] == "X")
+                {
+                    mapa[hracX, hracY] = "V";
+                    mapa[novyX, novyY] = "P";
+                    Console.Clear();
+                    VypisMapy(mapa);
+                    Console.WriteLine("VYHRÁL JSI!");
+                    konec = true;
+                }
+                else
+                {
+                    Console.WriteLine("TAM NEMŮŽEŠ!");
+                    Console.ReadKey();
+                }
+            }
         }
 
-        static string[,] VypisMapy(string[,] mapa)
+        //matoda na výpis mapy
+        static void VypisMapy(string[,] mapa)
         {
             for (int i = 0; i < mapa.GetLength(0); i++)
             {
                 for (int j = 0; j < mapa.GetLength(1); j++)
                 {
-                    Console.Write(mapa[i, j] + " ");
+                    
+                    //NASTAVENÍ BARVY PODLE ZNAKŮ
+                    if (mapa[i, j] == "#")
+                        Console.ForegroundColor = ConsoleColor.Red;
+                    else if (mapa[i, j] == "V")
+                        Console.ForegroundColor = ConsoleColor.White;
+                    else if (mapa[i, j] == "P")
+                        Console.ForegroundColor = ConsoleColor.Green;
+                    else if (mapa[i, j] == "X")
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                    //VÝPIŠ ZNAKŮ
+                    Console.Write(mapa[i, j] + " "); 
+                    //VYRESETUJE BARVU ABY POKAZDY MOHLA DAT TU SPRAVNOU PRO JISTOTU
+                    Console.ResetColor();
                 }
                 Console.WriteLine();
             }
-            return mapa;
+
+
         }
     }
 }

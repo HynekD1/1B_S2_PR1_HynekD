@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Radar\Radar\bin\Debug\net9.0\Radar.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Radar\Radar\bin\Debug\net9.0\Radar.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Radar\Radar\bin\Debug\net9.0\Radar.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Radar\Radar\bin\Debug\net9.0\Radar.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Radar\Radar\bin\Debug\net9.0\Radar.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Radar\Radar\obj\Debug\net9.0\Radar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Radar\Radar\obj\Debug\net9.0\Radar.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Radar\Radar\obj\Debug\net9.0\Radar.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Radar\Radar\obj\Debug\net9.0\Radar.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Radar\Radar\obj\Debug\net9.0\Radar.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Radar\Radar\obj\Debug\net9.0\Radar.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Radar\Radar\obj\Debug\net9.0\refint\Radar.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Radar\Radar\obj\Debug\net9.0\Radar.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Radar\Radar\obj\Debug\net9.0\Radar.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\Hry\Radar\Radar\obj\Debug\net9.0\ref\Radar.dll

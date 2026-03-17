@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skola_konstruktor\Skola_konstruktor\obj\Debug\net9.0\Skola_konstruktor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skola_konstruktor\Skola_konstruktor\obj\Debug\net9.0\Skola_konstruktor.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skola_konstruktor\Skola_konstruktor\obj\Debug\net9.0\Skola_konstruktor.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skola_konstruktor\Skola_konstruktor\obj\Debug\net9.0\Skola_konstruktor.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skola_konstruktor\Skola_konstruktor\obj\Debug\net9.0\Skola_konstruktor.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skola_konstruktor\Skola_konstruktor\bin\Debug\net9.0\Skola_konstruktor.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skola_konstruktor\Skola_konstruktor\bin\Debug\net9.0\Skola_konstruktor.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skola_konstruktor\Skola_konstruktor\bin\Debug\net9.0\Skola_konstruktor.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skola_konstruktor\Skola_konstruktor\bin\Debug\net9.0\Skola_konstruktor.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skola_konstruktor\Skola_konstruktor\bin\Debug\net9.0\Skola_konstruktor.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skola_konstruktor\Skola_konstruktor\obj\Debug\net9.0\Skola_konstruktor.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skola_konstruktor\Skola_konstruktor\obj\Debug\net9.0\refint\Skola_konstruktor.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skola_konstruktor\Skola_konstruktor\obj\Debug\net9.0\Skola_konstruktor.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skola_konstruktor\Skola_konstruktor\obj\Debug\net9.0\Skola_konstruktor.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skola_konstruktor\Skola_konstruktor\obj\Debug\net9.0\ref\Skola_konstruktor.dll

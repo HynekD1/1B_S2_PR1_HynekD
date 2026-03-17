@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bludiste_Marek_Zvolsky")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7fa84d7fa6ca5fe300cd72e83bc199a6327f445")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa6ee18d4a23e63daa431a40f8671575279d427b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bludiste_Marek_Zvolsky")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bludiste_Marek_Zvolsky")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

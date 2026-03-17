@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Uvod_OOP\Uvod_OOP\bin\Debug\net9.0\Uvod_OOP.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Uvod_OOP\Uvod_OOP\bin\Debug\net9.0\Uvod_OOP.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Uvod_OOP\Uvod_OOP\bin\Debug\net9.0\Uvod_OOP.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Uvod_OOP\Uvod_OOP\bin\Debug\net9.0\Uvod_OOP.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Uvod_OOP\Uvod_OOP\bin\Debug\net9.0\Uvod_OOP.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Uvod_OOP\Uvod_OOP\obj\Debug\net9.0\Uvod_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Uvod_OOP\Uvod_OOP\obj\Debug\net9.0\Uvod_OOP.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Uvod_OOP\Uvod_OOP\obj\Debug\net9.0\Uvod_OOP.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Uvod_OOP\Uvod_OOP\obj\Debug\net9.0\Uvod_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Uvod_OOP\Uvod_OOP\obj\Debug\net9.0\Uvod_OOP.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Uvod_OOP\Uvod_OOP\obj\Debug\net9.0\Uvod_OOP.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Uvod_OOP\Uvod_OOP\obj\Debug\net9.0\refint\Uvod_OOP.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Uvod_OOP\Uvod_OOP\obj\Debug\net9.0\Uvod_OOP.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Uvod_OOP\Uvod_OOP\obj\Debug\net9.0\Uvod_OOP.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Uvod_OOP\Uvod_OOP\obj\Debug\net9.0\ref\Uvod_OOP.dll

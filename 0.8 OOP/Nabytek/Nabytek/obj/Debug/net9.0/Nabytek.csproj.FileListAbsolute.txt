@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nabytek\Nabytek\bin\Debug\net9.0\Nabytek.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nabytek\Nabytek\bin\Debug\net9.0\Nabytek.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nabytek\Nabytek\bin\Debug\net9.0\Nabytek.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nabytek\Nabytek\bin\Debug\net9.0\Nabytek.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nabytek\Nabytek\bin\Debug\net9.0\Nabytek.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nabytek\Nabytek\obj\Debug\net9.0\Nabytek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nabytek\Nabytek\obj\Debug\net9.0\Nabytek.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nabytek\Nabytek\obj\Debug\net9.0\Nabytek.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nabytek\Nabytek\obj\Debug\net9.0\Nabytek.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nabytek\Nabytek\obj\Debug\net9.0\Nabytek.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nabytek\Nabytek\obj\Debug\net9.0\Nabytek.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nabytek\Nabytek\obj\Debug\net9.0\refint\Nabytek.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nabytek\Nabytek\obj\Debug\net9.0\Nabytek.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nabytek\Nabytek\obj\Debug\net9.0\Nabytek.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nabytek\Nabytek\obj\Debug\net9.0\ref\Nabytek.dll
