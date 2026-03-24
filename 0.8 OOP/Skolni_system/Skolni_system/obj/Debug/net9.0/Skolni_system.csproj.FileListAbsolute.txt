@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skolni_system\Skolni_system\bin\Debug\net9.0\Skolni_system.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skolni_system\Skolni_system\bin\Debug\net9.0\Skolni_system.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skolni_system\Skolni_system\bin\Debug\net9.0\Skolni_system.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skolni_system\Skolni_system\bin\Debug\net9.0\Skolni_system.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skolni_system\Skolni_system\bin\Debug\net9.0\Skolni_system.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skolni_system\Skolni_system\obj\Debug\net9.0\Skolni_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skolni_system\Skolni_system\obj\Debug\net9.0\Skolni_system.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skolni_system\Skolni_system\obj\Debug\net9.0\Skolni_system.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skolni_system\Skolni_system\obj\Debug\net9.0\Skolni_system.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skolni_system\Skolni_system\obj\Debug\net9.0\Skolni_system.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skolni_system\Skolni_system\obj\Debug\net9.0\Skolni_system.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skolni_system\Skolni_system\obj\Debug\net9.0\refint\Skolni_system.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skolni_system\Skolni_system\obj\Debug\net9.0\Skolni_system.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skolni_system\Skolni_system\obj\Debug\net9.0\Skolni_system.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Skolni_system\Skolni_system\obj\Debug\net9.0\ref\Skolni_system.dll

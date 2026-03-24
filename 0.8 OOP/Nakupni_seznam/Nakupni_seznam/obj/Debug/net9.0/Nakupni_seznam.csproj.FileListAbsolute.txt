@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nakupni_seznam\Nakupni_seznam\bin\Debug\net9.0\Nakupni_seznam.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nakupni_seznam\Nakupni_seznam\bin\Debug\net9.0\Nakupni_seznam.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nakupni_seznam\Nakupni_seznam\bin\Debug\net9.0\Nakupni_seznam.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nakupni_seznam\Nakupni_seznam\bin\Debug\net9.0\Nakupni_seznam.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nakupni_seznam\Nakupni_seznam\bin\Debug\net9.0\Nakupni_seznam.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nakupni_seznam\Nakupni_seznam\obj\Debug\net9.0\Nakupni_seznam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nakupni_seznam\Nakupni_seznam\obj\Debug\net9.0\Nakupni_seznam.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nakupni_seznam\Nakupni_seznam\obj\Debug\net9.0\Nakupni_seznam.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nakupni_seznam\Nakupni_seznam\obj\Debug\net9.0\Nakupni_seznam.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nakupni_seznam\Nakupni_seznam\obj\Debug\net9.0\Nakupni_seznam.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nakupni_seznam\Nakupni_seznam\obj\Debug\net9.0\Nakupni_seznam.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nakupni_seznam\Nakupni_seznam\obj\Debug\net9.0\refint\Nakupni_seznam.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nakupni_seznam\Nakupni_seznam\obj\Debug\net9.0\Nakupni_seznam.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nakupni_seznam\Nakupni_seznam\obj\Debug\net9.0\Nakupni_seznam.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Nakupni_seznam\Nakupni_seznam\obj\Debug\net9.0\ref\Nakupni_seznam.dll
