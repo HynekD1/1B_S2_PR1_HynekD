@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Proc_Vozovi_park\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{475D1CF7-F4B0-45EE-BB14-80C40C54E889}|Proc_Vozovi_park\\Proc_Vozovi_park.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.8 oop\\proc_vozovi_park\\proc_vozovi_park\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475D1CF7-F4B0-45EE-BB14-80C40C54E889}|Proc_Vozovi_park\\Proc_Vozovi_park.csproj|solutionrelative:proc_vozovi_park\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475D1CF7-F4B0-45EE-BB14-80C40C54E889}|Proc_Vozovi_park\\Proc_Vozovi_park.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.8 oop\\proc_vozovi_park\\proc_vozovi_park\\vozidlo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475D1CF7-F4B0-45EE-BB14-80C40C54E889}|Proc_Vozovi_park\\Proc_Vozovi_park.csproj|solutionrelative:proc_vozovi_park\\vozidlo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475D1CF7-F4B0-45EE-BB14-80C40C54E889}|Proc_Vozovi_park\\Proc_Vozovi_park.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.8 oop\\proc_vozovi_park\\proc_vozovi_park\\prodejce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475D1CF7-F4B0-45EE-BB14-80C40C54E889}|Proc_Vozovi_park\\Proc_Vozovi_park.csproj|solutionrelative:proc_vozovi_park\\prodejce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Proc_Vozovi_park\\Proc_Vozovi_park\\Program.cs",
+              "RelativeDocumentMoniker": "Proc_Vozovi_park\\Program.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Proc_Vozovi_park\\Proc_Vozovi_park\\Program.cs",
+              "RelativeToolTip": "Proc_Vozovi_park\\Program.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAADwv7QAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T07:52:44.054Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vozidlo.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Proc_Vozovi_park\\Proc_Vozovi_park\\Vozidlo.cs",
+              "RelativeDocumentMoniker": "Proc_Vozovi_park\\Vozidlo.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Proc_Vozovi_park\\Proc_Vozovi_park\\Vozidlo.cs",
+              "RelativeToolTip": "Proc_Vozovi_park\\Vozidlo.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv1QAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T07:52:51.645Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prodejce.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Proc_Vozovi_park\\Proc_Vozovi_park\\Prodejce.cs",
+              "RelativeDocumentMoniker": "Proc_Vozovi_park\\Prodejce.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Proc_Vozovi_park\\Proc_Vozovi_park\\Prodejce.cs",
+              "RelativeToolTip": "Proc_Vozovi_park\\Prodejce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:06:22.647Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

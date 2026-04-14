@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Bakalari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53CA0B97-D506-4A6D-AB16-F51C8D6ED7FC}|Bakalari\\Bakalari.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.8 oop\\bakalari\\bakalari\\znamka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CA0B97-D506-4A6D-AB16-F51C8D6ED7FC}|Bakalari\\Bakalari.csproj|solutionrelative:bakalari\\znamka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CA0B97-D506-4A6D-AB16-F51C8D6ED7FC}|Bakalari\\Bakalari.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.8 oop\\bakalari\\bakalari\\predmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CA0B97-D506-4A6D-AB16-F51C8D6ED7FC}|Bakalari\\Bakalari.csproj|solutionrelative:bakalari\\predmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CA0B97-D506-4A6D-AB16-F51C8D6ED7FC}|Bakalari\\Bakalari.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.8 oop\\bakalari\\bakalari\\ucitel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CA0B97-D506-4A6D-AB16-F51C8D6ED7FC}|Bakalari\\Bakalari.csproj|solutionrelative:bakalari\\ucitel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CA0B97-D506-4A6D-AB16-F51C8D6ED7FC}|Bakalari\\Bakalari.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.8 oop\\bakalari\\bakalari\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CA0B97-D506-4A6D-AB16-F51C8D6ED7FC}|Bakalari\\Bakalari.csproj|solutionrelative:bakalari\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CA0B97-D506-4A6D-AB16-F51C8D6ED7FC}|Bakalari\\Bakalari.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.8 oop\\bakalari\\bakalari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CA0B97-D506-4A6D-AB16-F51C8D6ED7FC}|Bakalari\\Bakalari.csproj|solutionrelative:bakalari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Bakalari\\Bakalari\\Program.cs",
+              "RelativeDocumentMoniker": "Bakalari\\Program.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Bakalari\\Bakalari\\Program.cs",
+              "RelativeToolTip": "Bakalari\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAgwJ8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T07:37:45.444Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Bakalari\\Bakalari\\Student.cs",
+              "RelativeDocumentMoniker": "Bakalari\\Student.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Bakalari\\Bakalari\\Student.cs",
+              "RelativeToolTip": "Bakalari\\Student.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T07:38:00.818Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ucitel.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Bakalari\\Bakalari\\Ucitel.cs",
+              "RelativeDocumentMoniker": "Bakalari\\Ucitel.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Bakalari\\Bakalari\\Ucitel.cs",
+              "RelativeToolTip": "Bakalari\\Ucitel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T07:38:09.473Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Predmet.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Bakalari\\Bakalari\\Predmet.cs",
+              "RelativeDocumentMoniker": "Bakalari\\Predmet.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Bakalari\\Bakalari\\Predmet.cs",
+              "RelativeToolTip": "Bakalari\\Predmet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T07:38:17.612Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Znamka.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Bakalari\\Bakalari\\Znamka.cs",
+              "RelativeDocumentMoniker": "Bakalari\\Znamka.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Bakalari\\Bakalari\\Znamka.cs",
+              "RelativeToolTip": "Bakalari\\Znamka.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T07:38:25.849Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

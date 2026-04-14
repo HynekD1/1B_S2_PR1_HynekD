@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Zapouzdreni\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAC51004-F5DD-480F-9031-C0647076C01A}|Zapouzdreni\\Zapouzdreni.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.8 oop\\zapouzdreni\\zapouzdreni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAC51004-F5DD-480F-9031-C0647076C01A}|Zapouzdreni\\Zapouzdreni.csproj|solutionrelative:zapouzdreni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BAC51004-F5DD-480F-9031-C0647076C01A}|Zapouzdreni\\Zapouzdreni.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.8 oop\\zapouzdreni\\zapouzdreni\\predmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAC51004-F5DD-480F-9031-C0647076C01A}|Zapouzdreni\\Zapouzdreni.csproj|solutionrelative:zapouzdreni\\predmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC51004-F5DD-480F-9031-C0647076C01A}|Zapouzdreni\\Zapouzdreni.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.8 oop\\zapouzdreni\\zapouzdreni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC51004-F5DD-480F-9031-C0647076C01A}|Zapouzdreni\\Zapouzdreni.csproj|solutionrelative:zapouzdreni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Zapouzdreni\\Zapouzdreni\\Program.cs",
               "RelativeDocumentMoniker": "Zapouzdreni\\Program.cs",
               "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Zapouzdreni\\Zapouzdreni\\Program.cs",
               "RelativeToolTip": "Zapouzdreni\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA8wB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T07:05:33.296Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Predmet.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Zapouzdreni\\Zapouzdreni\\Predmet.cs",
+              "RelativeDocumentMoniker": "Zapouzdreni\\Predmet.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Zapouzdreni\\Zapouzdreni\\Predmet.cs",
+              "RelativeToolTip": "Zapouzdreni\\Predmet.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T07:06:24.991Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -45,19 +59,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Predmet.cs",
-              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Zapouzdreni\\Zapouzdreni\\Predmet.cs",
-              "RelativeDocumentMoniker": "Zapouzdreni\\Predmet.cs",
-              "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Zapouzdreni\\Zapouzdreni\\Predmet.cs",
-              "RelativeToolTip": "Zapouzdreni\\Predmet.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T07:06:24.991Z",
-              "EditorCaption": ""
             }
           ]
         }

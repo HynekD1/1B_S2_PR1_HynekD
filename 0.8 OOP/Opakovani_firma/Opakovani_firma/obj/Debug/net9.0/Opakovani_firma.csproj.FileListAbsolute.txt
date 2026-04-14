@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Opakovani_firma\Opakovani_firma\bin\Debug\net9.0\Opakovani_firma.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Opakovani_firma\Opakovani_firma\bin\Debug\net9.0\Opakovani_firma.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Opakovani_firma\Opakovani_firma\bin\Debug\net9.0\Opakovani_firma.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Opakovani_firma\Opakovani_firma\bin\Debug\net9.0\Opakovani_firma.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Opakovani_firma\Opakovani_firma\bin\Debug\net9.0\Opakovani_firma.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Opakovani_firma\Opakovani_firma\obj\Debug\net9.0\Opakovani_firma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Opakovani_firma\Opakovani_firma\obj\Debug\net9.0\Opakovani_firma.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Opakovani_firma\Opakovani_firma\obj\Debug\net9.0\Opakovani_firma.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Opakovani_firma\Opakovani_firma\obj\Debug\net9.0\Opakovani_firma.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Opakovani_firma\Opakovani_firma\obj\Debug\net9.0\Opakovani_firma.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Opakovani_firma\Opakovani_firma\obj\Debug\net9.0\Opakovani_firma.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Opakovani_firma\Opakovani_firma\obj\Debug\net9.0\refint\Opakovani_firma.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Opakovani_firma\Opakovani_firma\obj\Debug\net9.0\Opakovani_firma.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Opakovani_firma\Opakovani_firma\obj\Debug\net9.0\Opakovani_firma.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\Opakovani_firma\Opakovani_firma\obj\Debug\net9.0\ref\Opakovani_firma.dll

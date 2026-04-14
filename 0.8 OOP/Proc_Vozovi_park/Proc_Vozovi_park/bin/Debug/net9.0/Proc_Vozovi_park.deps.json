@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Proc_Vozovi_park/1.0.0": {
+        "runtime": {
+          "Proc_Vozovi_park.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proc_Vozovi_park/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
