@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\List_Uvod\List_Uvod\bin\Debug\net9.0\List_Uvod.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\List_Uvod\List_Uvod\bin\Debug\net9.0\List_Uvod.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\List_Uvod\List_Uvod\bin\Debug\net9.0\List_Uvod.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\List_Uvod\List_Uvod\bin\Debug\net9.0\List_Uvod.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\List_Uvod\List_Uvod\bin\Debug\net9.0\List_Uvod.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\List_Uvod\List_Uvod\obj\Debug\net9.0\List_Uvod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\List_Uvod\List_Uvod\obj\Debug\net9.0\List_Uvod.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\List_Uvod\List_Uvod\obj\Debug\net9.0\List_Uvod.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\List_Uvod\List_Uvod\obj\Debug\net9.0\List_Uvod.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\List_Uvod\List_Uvod\obj\Debug\net9.0\List_Uvod.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\List_Uvod\List_Uvod\obj\Debug\net9.0\List_Uvod.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\List_Uvod\List_Uvod\obj\Debug\net9.0\refint\List_Uvod.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\List_Uvod\List_Uvod\obj\Debug\net9.0\List_Uvod.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\List_Uvod\List_Uvod\obj\Debug\net9.0\List_Uvod.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\List_Uvod\List_Uvod\obj\Debug\net9.0\ref\List_Uvod.dll
