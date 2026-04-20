@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{086D0D3B-7AAA-4EF9-8553-FE757226F4C3}|Opakovani_testu_OOP\\Opakovani_testu_OOP.csproj|solutionrelative:opakovani_testu_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{086D0D3B-7AAA-4EF9-8553-FE757226F4C3}|Opakovani_testu_OOP\\Opakovani_testu_OOP.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.8 oop\\opakovani_testu_oop\\opakovani_testu_oop\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{086D0D3B-7AAA-4EF9-8553-FE757226F4C3}|Opakovani_testu_OOP\\Opakovani_testu_OOP.csproj|solutionrelative:opakovani_testu_oop\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{086D0D3B-7AAA-4EF9-8553-FE757226F4C3}|Opakovani_testu_OOP\\Opakovani_testu_OOP.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.8 oop\\opakovani_testu_oop\\opakovani_testu_oop\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{086D0D3B-7AAA-4EF9-8553-FE757226F4C3}|Opakovani_testu_OOP\\Opakovani_testu_OOP.csproj|solutionrelative:opakovani_testu_oop\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086D0D3B-7AAA-4EF9-8553-FE757226F4C3}|Opakovani_testu_OOP\\Opakovani_testu_OOP.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.8 oop\\opakovani_testu_oop\\opakovani_testu_oop\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086D0D3B-7AAA-4EF9-8553-FE757226F4C3}|Opakovani_testu_OOP\\Opakovani_testu_OOP.csproj|solutionrelative:opakovani_testu_oop\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Opakovani_testu_OOP\\Program.cs",
               "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Opakovani_testu_OOP\\Opakovani_testu_OOP\\Program.cs",
               "RelativeToolTip": "Opakovani_testu_OOP\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBsAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowGUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T07:02:42.864Z",
               "IsPinned": true,
@@ -40,13 +40,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Worker.cs",
               "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Opakovani_testu_OOP\\Opakovani_testu_OOP\\Worker.cs",
               "RelativeDocumentMoniker": "Opakovani_testu_OOP\\Worker.cs",
               "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Opakovani_testu_OOP\\Opakovani_testu_OOP\\Worker.cs",
               "RelativeToolTip": "Opakovani_testu_OOP\\Worker.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T07:05:18.637Z",
               "IsPinned": true,
@@ -54,17 +54,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Opakovani_testu_OOP\\Opakovani_testu_OOP\\Task.cs",
               "RelativeDocumentMoniker": "Opakovani_testu_OOP\\Task.cs",
               "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Opakovani_testu_OOP\\Opakovani_testu_OOP\\Task.cs",
               "RelativeToolTip": "Opakovani_testu_OOP\\Task.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBUAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T07:10:01.395Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",

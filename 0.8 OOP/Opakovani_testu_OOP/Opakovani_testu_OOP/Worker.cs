@@ -8,9 +8,9 @@ namespace Opakovani_testu_OOP
 {
     internal class Worker
     {
-        public int ID { get; set; }
-        public double HodinovaSazba { get; set; }
-        public KategoriePrace Odbornost { get; set; }
+        public int ID { get; private set; }
+        public double HodinovaSazba { get; private set; }
+        public KategoriePrace Odbornost { get; private set; }
 
         public Worker()
         {

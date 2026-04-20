@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Opakovani_firma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF5A7293-E8C8-4EA4-B084-4494F8131B2C}|Opakovani_firma\\Opakovani_firma.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.8 oop\\opakovani_firma\\opakovani_firma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF5A7293-E8C8-4EA4-B084-4494F8131B2C}|Opakovani_firma\\Opakovani_firma.csproj|solutionrelative:opakovani_firma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF5A7293-E8C8-4EA4-B084-4494F8131B2C}|Opakovani_firma\\Opakovani_firma.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.8 oop\\opakovani_firma\\opakovani_firma\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF5A7293-E8C8-4EA4-B084-4494F8131B2C}|Opakovani_firma\\Opakovani_firma.csproj|solutionrelative:opakovani_firma\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5A7293-E8C8-4EA4-B084-4494F8131B2C}|Opakovani_firma\\Opakovani_firma.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.8 oop\\opakovani_firma\\opakovani_firma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5A7293-E8C8-4EA4-B084-4494F8131B2C}|Opakovani_firma\\Opakovani_firma.csproj|solutionrelative:opakovani_firma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Opakovani_firma\\Opakovani_firma\\Program.cs",
               "RelativeDocumentMoniker": "Opakovani_firma\\Program.cs",
               "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Opakovani_firma\\Opakovani_firma\\Program.cs",
               "RelativeToolTip": "Opakovani_firma\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T06:17:35.289Z",
               "IsPinned": true,
@@ -36,13 +36,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Worker.cs",
               "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Opakovani_firma\\Opakovani_firma\\Worker.cs",
               "RelativeDocumentMoniker": "Opakovani_firma\\Worker.cs",
               "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.8 OOP\\Opakovani_firma\\Opakovani_firma\\Worker.cs",
               "RelativeToolTip": "Opakovani_firma\\Worker.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAA7wBAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T06:18:22.605Z",
               "IsPinned": true,
@@ -59,6 +59,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

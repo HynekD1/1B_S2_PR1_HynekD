@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Opakovani_testu_OOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d9baf5c8f316b243c7a625628b9cf5517442911")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9be1007afee38856f2b30c0a17ef6ca34ed7dc4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Opakovani_testu_OOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Opakovani_testu_OOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

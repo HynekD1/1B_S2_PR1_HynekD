@@ -14,6 +14,7 @@ namespace Opakovani_testu_OOP
         private double pocetHodin;
         private double rozpocetZakazky;
 
+
         public Task(int id, KategoriePrace pozadovanaodbornost, double pocetH, double rozpocetZ)
         {
             this.ID = id;

@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\priprava\priprava\bin\Debug\net9.0\priprava.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\priprava\priprava\bin\Debug\net9.0\priprava.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\priprava\priprava\bin\Debug\net9.0\priprava.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\priprava\priprava\bin\Debug\net9.0\priprava.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\priprava\priprava\bin\Debug\net9.0\priprava.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\priprava\priprava\obj\Debug\net9.0\priprava.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\priprava\priprava\obj\Debug\net9.0\priprava.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\priprava\priprava\obj\Debug\net9.0\priprava.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\priprava\priprava\obj\Debug\net9.0\priprava.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\priprava\priprava\obj\Debug\net9.0\priprava.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\priprava\priprava\obj\Debug\net9.0\priprava.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\priprava\priprava\obj\Debug\net9.0\refint\priprava.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\priprava\priprava\obj\Debug\net9.0\priprava.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\priprava\priprava\obj\Debug\net9.0\priprava.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.8 OOP\priprava\priprava\obj\Debug\net9.0\ref\priprava.dll
