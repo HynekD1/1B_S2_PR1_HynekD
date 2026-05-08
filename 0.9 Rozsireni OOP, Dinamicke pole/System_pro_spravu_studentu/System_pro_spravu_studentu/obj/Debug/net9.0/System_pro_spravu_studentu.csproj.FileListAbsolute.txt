@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\System_pro_spravu_studentu\System_pro_spravu_studentu\bin\Debug\net9.0\System_pro_spravu_studentu.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\System_pro_spravu_studentu\System_pro_spravu_studentu\bin\Debug\net9.0\System_pro_spravu_studentu.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\System_pro_spravu_studentu\System_pro_spravu_studentu\bin\Debug\net9.0\System_pro_spravu_studentu.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\System_pro_spravu_studentu\System_pro_spravu_studentu\bin\Debug\net9.0\System_pro_spravu_studentu.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\System_pro_spravu_studentu\System_pro_spravu_studentu\bin\Debug\net9.0\System_pro_spravu_studentu.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\System_pro_spravu_studentu\System_pro_spravu_studentu\obj\Debug\net9.0\System_pro_spravu_studentu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\System_pro_spravu_studentu\System_pro_spravu_studentu\obj\Debug\net9.0\System_pro_spravu_studentu.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\System_pro_spravu_studentu\System_pro_spravu_studentu\obj\Debug\net9.0\System_pro_spravu_studentu.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\System_pro_spravu_studentu\System_pro_spravu_studentu\obj\Debug\net9.0\System_pro_spravu_studentu.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\System_pro_spravu_studentu\System_pro_spravu_studentu\obj\Debug\net9.0\System_pro_spravu_studentu.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\System_pro_spravu_studentu\System_pro_spravu_studentu\obj\Debug\net9.0\System_pro_spravu_studentu.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\System_pro_spravu_studentu\System_pro_spravu_studentu\obj\Debug\net9.0\refint\System_pro_spravu_studentu.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\System_pro_spravu_studentu\System_pro_spravu_studentu\obj\Debug\net9.0\System_pro_spravu_studentu.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\System_pro_spravu_studentu\System_pro_spravu_studentu\obj\Debug\net9.0\System_pro_spravu_studentu.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\System_pro_spravu_studentu\System_pro_spravu_studentu\obj\Debug\net9.0\ref\System_pro_spravu_studentu.dll

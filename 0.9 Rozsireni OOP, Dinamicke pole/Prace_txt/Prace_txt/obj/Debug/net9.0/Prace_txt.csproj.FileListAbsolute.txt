@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Prace_txt\Prace_txt\bin\Debug\net9.0\Prace_txt.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Prace_txt\Prace_txt\bin\Debug\net9.0\Prace_txt.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Prace_txt\Prace_txt\bin\Debug\net9.0\Prace_txt.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Prace_txt\Prace_txt\bin\Debug\net9.0\Prace_txt.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Prace_txt\Prace_txt\bin\Debug\net9.0\Prace_txt.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Prace_txt\Prace_txt\obj\Debug\net9.0\Prace_txt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Prace_txt\Prace_txt\obj\Debug\net9.0\Prace_txt.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Prace_txt\Prace_txt\obj\Debug\net9.0\Prace_txt.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Prace_txt\Prace_txt\obj\Debug\net9.0\Prace_txt.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Prace_txt\Prace_txt\obj\Debug\net9.0\Prace_txt.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Prace_txt\Prace_txt\obj\Debug\net9.0\Prace_txt.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Prace_txt\Prace_txt\obj\Debug\net9.0\refint\Prace_txt.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Prace_txt\Prace_txt\obj\Debug\net9.0\Prace_txt.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Prace_txt\Prace_txt\obj\Debug\net9.0\Prace_txt.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Prace_txt\Prace_txt\obj\Debug\net9.0\ref\Prace_txt.dll

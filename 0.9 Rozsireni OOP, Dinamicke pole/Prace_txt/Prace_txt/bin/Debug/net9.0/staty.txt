@@ -1,0 +1,5 @@
+100 životů
+50 stamina
+20 mincí
+10 dia
+100 šipek

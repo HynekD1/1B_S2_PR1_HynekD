@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Zasobnik_Fronta\Zasobnik_Fronta\bin\Debug\net9.0\Zasobnik_Fronta.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Zasobnik_Fronta\Zasobnik_Fronta\bin\Debug\net9.0\Zasobnik_Fronta.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Zasobnik_Fronta\Zasobnik_Fronta\bin\Debug\net9.0\Zasobnik_Fronta.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Zasobnik_Fronta\Zasobnik_Fronta\bin\Debug\net9.0\Zasobnik_Fronta.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Zasobnik_Fronta\Zasobnik_Fronta\bin\Debug\net9.0\Zasobnik_Fronta.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\Zasobnik_Fronta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\Zasobnik_Fronta.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\Zasobnik_Fronta.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\Zasobnik_Fronta.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\Zasobnik_Fronta.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\Zasobnik_Fronta.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\refint\Zasobnik_Fronta.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\Zasobnik_Fronta.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\Zasobnik_Fronta.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Zasobnik_Fronta\Zasobnik_Fronta\obj\Debug\net9.0\ref\Zasobnik_Fronta.dll

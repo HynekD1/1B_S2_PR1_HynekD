@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "System_pro_spravu_studentu/1.0.0": {
+        "runtime": {
+          "System_pro_spravu_studentu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System_pro_spravu_studentu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

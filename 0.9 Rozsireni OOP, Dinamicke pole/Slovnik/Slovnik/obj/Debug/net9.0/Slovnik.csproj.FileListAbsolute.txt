@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Slovnik\Slovnik\bin\Debug\net9.0\Slovnik.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Slovnik\Slovnik\bin\Debug\net9.0\Slovnik.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Slovnik\Slovnik\bin\Debug\net9.0\Slovnik.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Slovnik\Slovnik\bin\Debug\net9.0\Slovnik.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Slovnik\Slovnik\bin\Debug\net9.0\Slovnik.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Slovnik\Slovnik\obj\Debug\net9.0\Slovnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Slovnik\Slovnik\obj\Debug\net9.0\Slovnik.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Slovnik\Slovnik\obj\Debug\net9.0\Slovnik.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Slovnik\Slovnik\obj\Debug\net9.0\Slovnik.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Slovnik\Slovnik\obj\Debug\net9.0\Slovnik.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Slovnik\Slovnik\obj\Debug\net9.0\Slovnik.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Slovnik\Slovnik\obj\Debug\net9.0\refint\Slovnik.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Slovnik\Slovnik\obj\Debug\net9.0\Slovnik.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Slovnik\Slovnik\obj\Debug\net9.0\Slovnik.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Slovnik\Slovnik\obj\Debug\net9.0\ref\Slovnik.dll

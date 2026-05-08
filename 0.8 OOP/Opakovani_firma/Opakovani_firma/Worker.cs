@@ -62,7 +62,7 @@ namespace Opakovani_Firma
         {
             Console.WriteLine($"{this.ID} working in {this.Workspace}, {this.PracovniDoba} hours a day. {this.HodinovaMzda} – they pay me for 1 hour of work.");
         }
-
+        
 
     }
 }

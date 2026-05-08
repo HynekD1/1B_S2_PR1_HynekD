@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Zasobnik_Fronta/1.0.0": {
+        "runtime": {
+          "Zasobnik_Fronta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zasobnik_Fronta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
