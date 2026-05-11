@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Cesko_Anglicky_slovnik\Cesko_Anglicky_slovnik\bin\Debug\net9.0\Cesko_Anglicky_slovnik.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Cesko_Anglicky_slovnik\Cesko_Anglicky_slovnik\bin\Debug\net9.0\Cesko_Anglicky_slovnik.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Cesko_Anglicky_slovnik\Cesko_Anglicky_slovnik\bin\Debug\net9.0\Cesko_Anglicky_slovnik.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Cesko_Anglicky_slovnik\Cesko_Anglicky_slovnik\bin\Debug\net9.0\Cesko_Anglicky_slovnik.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Cesko_Anglicky_slovnik\Cesko_Anglicky_slovnik\bin\Debug\net9.0\Cesko_Anglicky_slovnik.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Cesko_Anglicky_slovnik\Cesko_Anglicky_slovnik\obj\Debug\net9.0\Cesko_Anglicky_slovnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Cesko_Anglicky_slovnik\Cesko_Anglicky_slovnik\obj\Debug\net9.0\Cesko_Anglicky_slovnik.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Cesko_Anglicky_slovnik\Cesko_Anglicky_slovnik\obj\Debug\net9.0\Cesko_Anglicky_slovnik.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Cesko_Anglicky_slovnik\Cesko_Anglicky_slovnik\obj\Debug\net9.0\Cesko_Anglicky_slovnik.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Cesko_Anglicky_slovnik\Cesko_Anglicky_slovnik\obj\Debug\net9.0\Cesko_Anglicky_slovnik.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Cesko_Anglicky_slovnik\Cesko_Anglicky_slovnik\obj\Debug\net9.0\Cesko_Anglicky_slovnik.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Cesko_Anglicky_slovnik\Cesko_Anglicky_slovnik\obj\Debug\net9.0\refint\Cesko_Anglicky_slovnik.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Cesko_Anglicky_slovnik\Cesko_Anglicky_slovnik\obj\Debug\net9.0\Cesko_Anglicky_slovnik.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Cesko_Anglicky_slovnik\Cesko_Anglicky_slovnik\obj\Debug\net9.0\Cesko_Anglicky_slovnik.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Cesko_Anglicky_slovnik\Cesko_Anglicky_slovnik\obj\Debug\net9.0\ref\Cesko_Anglicky_slovnik.dll

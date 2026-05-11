@@ -1,42 +1,96 @@
-﻿namespace Dictionary_Uvod
+﻿using System.Collections.Immutable;
+using System.Globalization;
+
+namespace Dictionary_Uvod
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            //Určuji jaký datový typ je klíč a jaká je hodnota
-            Dictionary<string, string> CeskoAngSlovnik = new Dictionary<string, string>();
+            //Určuji jaký datový typ je klíč a jaký je hodnota
+            Dictionary<string, string> CeskoAnglickySlovnik = new Dictionary<string, string>();
 
-            CeskoAngSlovnik.Add("Auto", "Car");
+            CeskoAnglickySlovnik.Add("Auto", "Car");
 
-            Console.WriteLine(CeskoAngSlovnik["Auto"]);
+            Console.WriteLine(CeskoAnglickySlovnik["Auto"]);
 
-            Dictionary<string, int> TelefonniSeznam = new Dictionary<string, int>();
-            TelefonniSeznam.Add("Pepa Omáčka", 483111122);
-            TelefonniSeznam.Add("Jindřich Smutný", 465245285);
-            Console.WriteLine(TelefonniSeznam["Pepa Omáčka"]);
+            Dictionary<string, int> TelefoniSeznam = new Dictionary<string, int>();
+            TelefoniSeznam.Add("Pepa Omáčka", 483111222);
+            TelefoniSeznam.Add("Jindřich Smutný", 483951357);
+
+            Console.WriteLine(TelefoniSeznam["Pepa Omáčka"]);
 
             //Iterace Dicationary
-            foreach (string klic in TelefonniSeznam.Keys)
+            foreach (string klic in TelefoniSeznam.Keys)
             {
-                Console.WriteLine(klic + ": " + TelefonniSeznam[klic]);
+                Console.WriteLine(klic + ": " + TelefoniSeznam[klic]);
             }
-            foreach (int hodnota in TelefonniSeznam.Values)
+            foreach (int hodnota in TelefoniSeznam.Values)
             {
                 Console.WriteLine(hodnota);
             }
-            foreach (KeyValuePair<string, int> zaznam in TelefonniSeznam)
+            foreach (KeyValuePair<string, int> zaznam in TelefoniSeznam)
             {
                 Console.WriteLine(zaznam.Key + ": " + zaznam.Value);
             }
 
             //Remove
-            TelefonniSeznam.Remove("Pepa Omáčka"); //Vymaže položku z slovníku na klíčí "Pepa Omáčka"
+            TelefoniSeznam.Remove("Pepa Omáčka"); //Vymaže položku z slovníku na klíči "Pepa Omáčka"
 
             //Contains
             //ContainsKey/Value vrací true/false pokud daný klíč/hodnota je v slovníku
-            Console.WriteLine(TelefonniSeznam.ContainsKey("Pepa Omáčka"));
-            Console.WriteLine(TelefonniSeznam.ContainsValue(465245285));
+            Console.WriteLine(TelefoniSeznam.ContainsKey("Pepa Omáčka"));
+            Console.WriteLine(TelefoniSeznam.ContainsValue(483951357));
+
+
+
+
+
+            Console.WriteLine("----------------------------------------------------------------");
+
+
+            Dictionary<string, int> PismenoCislo = new Dictionary<string, int>();
+            for (int i = 0; i < 26; i++)
+            {
+                PismenoCislo.Add($"{(char)(65 + i)}", i + 1);
+            }
+            PismenoCislo.Remove("A");
+            PismenoCislo.ContainsValue(2);
+            foreach (string klic in PismenoCislo.Keys)
+            {
+                Console.WriteLine($"{klic} je písmeno {PismenoCislo[klic]}");
+            }
+
+            foreach (var hodnota in PismenoCislo)
+            {
+                Console.WriteLine($"{hodnota.Key} je číslo {hodnota.Value}");
+            }
+
+            
+
+
+            foreach (int klic in PismenoCislo.Values)
+            {
+                Console.WriteLine(klic);
+            }
+
+            Console.WriteLine(PismenoCislo.ContainsKey("G"));
+            Console.WriteLine(PismenoCislo.ContainsValue(6));
+            Console.WriteLine(PismenoCislo.ContainsValue(26));
+
+
+            Console.WriteLine("----------------------------------------------------------------");
+
+
+
+            Dictionary<int, string> cisloPismeno = new Dictionary<int, string>();
+            cisloPismeno.Add(1, "A");
+
+            foreach (var klic in cisloPismeno.Keys)
+            {
+                Console.WriteLine(klic);
+            }
+
 
         }
     }

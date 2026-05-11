@@ -52,6 +52,18 @@
                     Console.WriteLine(radek);
                 }
             }
+
+            File.WriteAllText("Ramm1.txt", "text psany mnou");
+
+            File.WriteAllText("Ramm2.txt", "Ahoj");
+
+            File.WriteAllText("Ramm3.txt", "Hoj ");
+            File.AppendAllText("Ramm3.txt", "Rammstein");
+            //File.WriteAllText("Ramm3.txt", "čus");
+
+            Console.WriteLine(File.ReadAllText("Ramm1.txt"));
+            Console.WriteLine(File.ReadAllText("Ramm2.txt"));
+            Console.WriteLine(File.ReadAllText("Ramm3.txt"));
         }
     }
 }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Cesko_Anglicky_slovnik/1.0.0": {
+        "runtime": {
+          "Cesko_Anglicky_slovnik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cesko_Anglicky_slovnik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

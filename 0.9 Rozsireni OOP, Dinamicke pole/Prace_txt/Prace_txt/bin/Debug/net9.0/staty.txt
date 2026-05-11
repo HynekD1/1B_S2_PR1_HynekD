@@ -1,5 +1,5 @@
 100 životů
 50 stamina
 20 mincí
-10 dia
+10 diamantů
 100 šipek
