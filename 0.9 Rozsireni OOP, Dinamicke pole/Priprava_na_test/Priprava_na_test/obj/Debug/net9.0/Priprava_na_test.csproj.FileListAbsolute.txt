@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test\Priprava_na_test\bin\Debug\net9.0\Priprava_na_test.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test\Priprava_na_test\bin\Debug\net9.0\Priprava_na_test.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test\Priprava_na_test\bin\Debug\net9.0\Priprava_na_test.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test\Priprava_na_test\bin\Debug\net9.0\Priprava_na_test.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test\Priprava_na_test\bin\Debug\net9.0\Priprava_na_test.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test\Priprava_na_test\obj\Debug\net9.0\Priprava_na_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test\Priprava_na_test\obj\Debug\net9.0\Priprava_na_test.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test\Priprava_na_test\obj\Debug\net9.0\Priprava_na_test.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test\Priprava_na_test\obj\Debug\net9.0\Priprava_na_test.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test\Priprava_na_test\obj\Debug\net9.0\Priprava_na_test.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test\Priprava_na_test\obj\Debug\net9.0\Priprava_na_test.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test\Priprava_na_test\obj\Debug\net9.0\refint\Priprava_na_test.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test\Priprava_na_test\obj\Debug\net9.0\Priprava_na_test.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test\Priprava_na_test\obj\Debug\net9.0\Priprava_na_test.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test\Priprava_na_test\obj\Debug\net9.0\ref\Priprava_na_test.dll

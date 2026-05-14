@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SCV.skouska/1.0.0": {
+        "runtime": {
+          "SCV.skouska.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SCV.skouska/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

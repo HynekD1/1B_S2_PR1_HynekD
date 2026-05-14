@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test_Json\Priprava_na_test_Json\bin\Debug\net9.0\Priprava_na_test_Json.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test_Json\Priprava_na_test_Json\bin\Debug\net9.0\Priprava_na_test_Json.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test_Json\Priprava_na_test_Json\bin\Debug\net9.0\Priprava_na_test_Json.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test_Json\Priprava_na_test_Json\bin\Debug\net9.0\Priprava_na_test_Json.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test_Json\Priprava_na_test_Json\bin\Debug\net9.0\Priprava_na_test_Json.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test_Json\Priprava_na_test_Json\obj\Debug\net9.0\Priprava_na_test_Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test_Json\Priprava_na_test_Json\obj\Debug\net9.0\Priprava_na_test_Json.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test_Json\Priprava_na_test_Json\obj\Debug\net9.0\Priprava_na_test_Json.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test_Json\Priprava_na_test_Json\obj\Debug\net9.0\Priprava_na_test_Json.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test_Json\Priprava_na_test_Json\obj\Debug\net9.0\Priprava_na_test_Json.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test_Json\Priprava_na_test_Json\obj\Debug\net9.0\Priprava_na_test_Json.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test_Json\Priprava_na_test_Json\obj\Debug\net9.0\refint\Priprava_na_test_Json.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test_Json\Priprava_na_test_Json\obj\Debug\net9.0\Priprava_na_test_Json.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test_Json\Priprava_na_test_Json\obj\Debug\net9.0\Priprava_na_test_Json.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Priprava_na_test_Json\Priprava_na_test_Json\obj\Debug\net9.0\ref\Priprava_na_test_Json.dll

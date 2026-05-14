@@ -1,0 +1,15 @@
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Json.skouska\Json.skouska\obj\Debug\net9.0\Json.skouska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Json.skouska\Json.skouska\obj\Debug\net9.0\Json.skouska.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Json.skouska\Json.skouska\obj\Debug\net9.0\Json.skouska.AssemblyInfo.cs
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Json.skouska\Json.skouska\obj\Debug\net9.0\Json.skouska.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Json.skouska\Json.skouska\obj\Debug\net9.0\Json.skouska.sourcelink.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Json.skouska\Json.skouska\bin\Debug\net9.0\Json.skouska.exe
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Json.skouska\Json.skouska\bin\Debug\net9.0\Json.skouska.deps.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Json.skouska\Json.skouska\bin\Debug\net9.0\Json.skouska.runtimeconfig.json
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Json.skouska\Json.skouska\bin\Debug\net9.0\Json.skouska.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Json.skouska\Json.skouska\bin\Debug\net9.0\Json.skouska.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Json.skouska\Json.skouska\obj\Debug\net9.0\Json.skouska.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Json.skouska\Json.skouska\obj\Debug\net9.0\refint\Json.skouska.dll
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Json.skouska\Json.skouska\obj\Debug\net9.0\Json.skouska.pdb
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Json.skouska\Json.skouska\obj\Debug\net9.0\Json.skouska.genruntimeconfig.cache
+C:\Users\Dominik\Documents\Studio visual\PR1_1B_2025.2026\0.9 Rozsireni OOP, Dinamicke pole\Json.skouska\Json.skouska\obj\Debug\net9.0\ref\Json.skouska.dll

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.9 Rozsireni OOP, Dinamicke pole\\zkouska\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C7A13E-713B-4C48-A6A6-6F47941549E0}|zkouska\\zkouska.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.9 rozsireni oop, dinamicke pole\\zkouska\\zkouska\\databaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C7A13E-713B-4C48-A6A6-6F47941549E0}|zkouska\\zkouska.csproj|solutionrelative:zkouska\\databaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C7A13E-713B-4C48-A6A6-6F47941549E0}|zkouska\\zkouska.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.9 rozsireni oop, dinamicke pole\\zkouska\\zkouska\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C7A13E-713B-4C48-A6A6-6F47941549E0}|zkouska\\zkouska.csproj|solutionrelative:zkouska\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C7A13E-713B-4C48-A6A6-6F47941549E0}|zkouska\\zkouska.csproj|c:\\users\\dominik\\documents\\studio visual\\pr1_1b_2025.2026\\0.9 rozsireni oop, dinamicke pole\\zkouska\\zkouska\\uzivatel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C7A13E-713B-4C48-A6A6-6F47941549E0}|zkouska\\zkouska.csproj|solutionrelative:zkouska\\uzivatel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.9 Rozsireni OOP, Dinamicke pole\\zkouska\\zkouska\\Program.cs",
+              "RelativeDocumentMoniker": "zkouska\\Program.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.9 Rozsireni OOP, Dinamicke pole\\zkouska\\zkouska\\Program.cs",
+              "RelativeToolTip": "zkouska\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T14:42:50.162Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Uzivatel.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.9 Rozsireni OOP, Dinamicke pole\\zkouska\\zkouska\\Uzivatel.cs",
+              "RelativeDocumentMoniker": "zkouska\\Uzivatel.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.9 Rozsireni OOP, Dinamicke pole\\zkouska\\zkouska\\Uzivatel.cs",
+              "RelativeToolTip": "zkouska\\Uzivatel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T15:13:46.202Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Databaze.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.9 Rozsireni OOP, Dinamicke pole\\zkouska\\zkouska\\Databaze.cs",
+              "RelativeDocumentMoniker": "zkouska\\Databaze.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\Studio visual\\PR1_1B_2025.2026\\0.9 Rozsireni OOP, Dinamicke pole\\zkouska\\zkouska\\Databaze.cs",
+              "RelativeToolTip": "zkouska\\Databaze.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T15:20:13.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

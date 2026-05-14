@@ -1,4 +1,6 @@
-﻿namespace Prace_txt
+﻿using System.Data;
+
+namespace Prace_txt
 {
     internal class Program
     {
@@ -64,6 +66,25 @@
             Console.WriteLine(File.ReadAllText("Ramm1.txt"));
             Console.WriteLine(File.ReadAllText("Ramm2.txt"));
             Console.WriteLine(File.ReadAllText("Ramm3.txt"));
+
+
+            using(StreamWriter sw = new StreamWriter("pes.txt", true))
+            {
+                sw.WriteLine("Přidaný soubor ");
+                sw.WriteLine("Další přidaný soubor");
+            }
+
+            using (StreamReader sr = new StreamReader("pes.txt"))
+            {
+                string radek = " ";
+                while ((radek = sr.ReadLine()) != null)
+                {
+                    Console.WriteLine(radek);
+                }
+            }
+
+            Console.WriteLine(File.ReadAllText("pes.txt"));
+
         }
     }
 }

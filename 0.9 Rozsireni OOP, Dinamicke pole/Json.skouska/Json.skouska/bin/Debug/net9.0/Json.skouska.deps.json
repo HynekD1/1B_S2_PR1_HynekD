@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Json.skouska/1.0.0": {
+        "runtime": {
+          "Json.skouska.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Json.skouska/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
